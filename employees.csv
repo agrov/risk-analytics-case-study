@@ -1,0 +1,1001 @@
+employee_id,role,country,region,tenure_years
+E00001,Sales Rep,Brazil,Americas,4.3
+E00002,Medical Manager,France,EMEA,6.0
+E00003,Sales Rep,France,EMEA,4.7
+E00004,Sales Rep,Germany,EMEA,0.1
+E00005,MSL,Mexico,Americas,1.7
+E00006,Sales Rep,Japan,APAC,4.1
+E00007,Sales Rep,France,EMEA,0.9
+E00008,MSL,United States,Americas,6.3
+E00009,Sales Rep,Mexico,Americas,9.1
+E00010,MSL,Japan,APAC,8.2
+E00011,MSL,France,EMEA,3.9
+E00012,Regional Manager,Germany,EMEA,9.0
+E00013,Regional Manager,India,APAC,4.9
+E00014,Regional Manager,France,EMEA,3.5
+E00015,Sales Rep,Mexico,Americas,2.7
+E00016,Market Access,United Kingdom,EMEA,3.6
+E00017,MSL,Mexico,Americas,3.3
+E00018,MSL,Brazil,Americas,5.0
+E00019,Market Access,Brazil,Americas,5.0
+E00020,MSL,Canada,Americas,4.5
+E00021,MSL,Canada,Americas,5.8
+E00022,Sales Rep,Japan,APAC,8.1
+E00023,MSL,Germany,EMEA,7.3
+E00024,Sales Rep,United States,Americas,0.1
+E00025,Sales Rep,United Kingdom,EMEA,0.1
+E00026,Sales Rep,United States,Americas,7.3
+E00027,Sales Rep,Italy,EMEA,0.4
+E00028,Sales Rep,Germany,EMEA,3.8
+E00029,MSL,Canada,Americas,1.0
+E00030,MSL,Canada,Americas,0.1
+E00031,Sales Rep,Brazil,Americas,6.1
+E00032,MSL,Germany,EMEA,6.8
+E00033,MSL,Japan,APAC,2.8
+E00034,Market Access,Germany,EMEA,0.1
+E00035,Sales Rep,India,APAC,2.9
+E00036,MSL,Mexico,Americas,5.7
+E00037,Regional Manager,United Kingdom,EMEA,0.1
+E00038,Sales Rep,Mexico,Americas,5.1
+E00039,Sales Rep,India,APAC,4.5
+E00040,Sales Rep,Mexico,Americas,6.2
+E00041,Sales Rep,Mexico,Americas,4.9
+E00042,Regional Manager,Japan,APAC,1.6
+E00043,Sales Rep,Germany,EMEA,8.1
+E00044,MSL,Japan,APAC,4.0
+E00045,Medical Manager,India,APAC,4.4
+E00046,Sales Rep,Brazil,Americas,1.7
+E00047,MSL,India,APAC,3.2
+E00048,Sales Rep,India,APAC,1.8
+E00049,MSL,Canada,Americas,4.0
+E00050,Sales Rep,France,EMEA,9.6
+E00051,Market Access,Japan,APAC,0.4
+E00052,Market Access,United Kingdom,EMEA,0.1
+E00053,Regional Manager,Germany,EMEA,8.9
+E00054,Medical Manager,Canada,Americas,3.9
+E00055,Sales Rep,Germany,EMEA,2.5
+E00056,Sales Rep,Brazil,Americas,7.6
+E00057,MSL,United Kingdom,EMEA,2.7
+E00058,Medical Manager,Canada,Americas,10.0
+E00059,Sales Rep,France,EMEA,6.5
+E00060,Sales Rep,India,APAC,3.0
+E00061,Sales Rep,Japan,APAC,11.0
+E00062,Medical Manager,Brazil,Americas,2.7
+E00063,MSL,Brazil,Americas,6.7
+E00064,Sales Rep,Japan,APAC,5.4
+E00065,Sales Rep,United States,Americas,8.4
+E00066,Market Access,Brazil,Americas,9.2
+E00067,Sales Rep,Japan,APAC,4.6
+E00068,Sales Rep,Brazil,Americas,2.2
+E00069,Regional Manager,Japan,APAC,5.9
+E00070,Sales Rep,Italy,EMEA,2.5
+E00071,MSL,Brazil,Americas,10.5
+E00072,MSL,Germany,EMEA,4.9
+E00073,MSL,Mexico,Americas,3.4
+E00074,Sales Rep,Canada,Americas,5.1
+E00075,MSL,Brazil,Americas,0.5
+E00076,Market Access,Japan,APAC,1.6
+E00077,Sales Rep,Germany,EMEA,8.1
+E00078,Sales Rep,Canada,Americas,2.5
+E00079,Sales Rep,Brazil,Americas,1.4
+E00080,Sales Rep,United States,Americas,6.1
+E00081,Regional Manager,Japan,APAC,8.1
+E00082,Sales Rep,France,EMEA,6.7
+E00083,Sales Rep,United States,Americas,7.5
+E00084,MSL,India,APAC,2.2
+E00085,Sales Rep,Mexico,Americas,0.2
+E00086,MSL,Brazil,Americas,9.0
+E00087,MSL,Germany,EMEA,3.5
+E00088,Medical Manager,France,EMEA,3.7
+E00089,Medical Manager,Canada,Americas,8.5
+E00090,Sales Rep,United Kingdom,EMEA,6.2
+E00091,Medical Manager,Mexico,Americas,5.9
+E00092,Sales Rep,Brazil,Americas,11.0
+E00093,Sales Rep,Mexico,Americas,2.6
+E00094,Sales Rep,Canada,Americas,7.3
+E00095,Sales Rep,France,EMEA,4.7
+E00096,Sales Rep,United Kingdom,EMEA,5.3
+E00097,Sales Rep,Japan,APAC,9.1
+E00098,Sales Rep,France,EMEA,6.0
+E00099,MSL,France,EMEA,6.1
+E00100,Medical Manager,Italy,EMEA,7.7
+E00101,MSL,United Kingdom,EMEA,3.4
+E00102,Medical Manager,United Kingdom,EMEA,2.0
+E00103,MSL,United Kingdom,EMEA,1.4
+E00104,Sales Rep,Germany,EMEA,0.1
+E00105,Sales Rep,Germany,EMEA,10.7
+E00106,Regional Manager,France,EMEA,1.2
+E00107,Sales Rep,Japan,APAC,3.8
+E00108,Sales Rep,Mexico,Americas,3.7
+E00109,Regional Manager,Japan,APAC,5.4
+E00110,MSL,Canada,Americas,6.9
+E00111,Sales Rep,Mexico,Americas,7.1
+E00112,Sales Rep,Brazil,Americas,2.8
+E00113,Sales Rep,Germany,EMEA,4.0
+E00114,MSL,France,EMEA,5.3
+E00115,Sales Rep,Brazil,Americas,3.8
+E00116,Market Access,France,EMEA,9.3
+E00117,MSL,India,APAC,6.0
+E00118,Sales Rep,Germany,EMEA,6.7
+E00119,Medical Manager,Japan,APAC,6.5
+E00120,Sales Rep,United States,Americas,8.0
+E00121,Medical Manager,United States,Americas,5.0
+E00122,MSL,United Kingdom,EMEA,0.6
+E00123,Sales Rep,Japan,APAC,5.7
+E00124,Sales Rep,Brazil,Americas,2.5
+E00125,MSL,Brazil,Americas,2.9
+E00126,Medical Manager,Germany,EMEA,6.3
+E00127,Sales Rep,Canada,Americas,8.2
+E00128,Sales Rep,Italy,EMEA,4.6
+E00129,Sales Rep,Mexico,Americas,5.4
+E00130,Medical Manager,France,EMEA,9.6
+E00131,Regional Manager,Brazil,Americas,5.2
+E00132,Sales Rep,Mexico,Americas,12.3
+E00133,Medical Manager,United Kingdom,EMEA,6.2
+E00134,Sales Rep,Canada,Americas,0.1
+E00135,Sales Rep,Canada,Americas,6.8
+E00136,Medical Manager,Canada,Americas,5.6
+E00137,Sales Rep,United Kingdom,EMEA,8.4
+E00138,Market Access,Italy,EMEA,6.5
+E00139,Regional Manager,France,EMEA,4.1
+E00140,Sales Rep,United Kingdom,EMEA,0.8
+E00141,Regional Manager,Germany,EMEA,3.9
+E00142,Regional Manager,United Kingdom,EMEA,1.9
+E00143,Sales Rep,Japan,APAC,2.8
+E00144,Sales Rep,Canada,Americas,6.3
+E00145,Sales Rep,Germany,EMEA,9.5
+E00146,Market Access,Mexico,Americas,5.7
+E00147,Sales Rep,India,APAC,0.9
+E00148,Sales Rep,Italy,EMEA,5.8
+E00149,Sales Rep,Mexico,Americas,8.1
+E00150,MSL,Germany,EMEA,2.7
+E00151,Medical Manager,Japan,APAC,4.1
+E00152,MSL,Brazil,Americas,4.5
+E00153,Sales Rep,United States,Americas,2.1
+E00154,Sales Rep,Japan,APAC,6.4
+E00155,MSL,Brazil,Americas,4.1
+E00156,MSL,Brazil,Americas,5.8
+E00157,Sales Rep,Japan,APAC,1.8
+E00158,Sales Rep,India,APAC,3.2
+E00159,Sales Rep,India,APAC,6.7
+E00160,Regional Manager,Germany,EMEA,3.4
+E00161,Regional Manager,Japan,APAC,9.7
+E00162,Sales Rep,Mexico,Americas,3.3
+E00163,MSL,Japan,APAC,5.2
+E00164,Sales Rep,India,APAC,7.3
+E00165,Sales Rep,Germany,EMEA,0.2
+E00166,Sales Rep,India,APAC,0.1
+E00167,Market Access,Canada,Americas,0.1
+E00168,Sales Rep,France,EMEA,8.3
+E00169,Sales Rep,Italy,EMEA,2.8
+E00170,Medical Manager,Canada,Americas,12.2
+E00171,Sales Rep,India,APAC,2.8
+E00172,MSL,India,APAC,5.1
+E00173,Medical Manager,Brazil,Americas,9.1
+E00174,MSL,Canada,Americas,10.5
+E00175,Sales Rep,India,APAC,10.7
+E00176,Market Access,Canada,Americas,8.1
+E00177,MSL,Japan,APAC,7.6
+E00178,Medical Manager,France,EMEA,6.3
+E00179,Sales Rep,Germany,EMEA,6.8
+E00180,MSL,Japan,APAC,2.8
+E00181,Sales Rep,France,EMEA,2.0
+E00182,Medical Manager,United States,Americas,4.5
+E00183,MSL,Japan,APAC,4.0
+E00184,Sales Rep,France,EMEA,3.1
+E00185,Sales Rep,Mexico,Americas,6.6
+E00186,MSL,Canada,Americas,7.4
+E00187,MSL,Germany,EMEA,4.8
+E00188,Medical Manager,United Kingdom,EMEA,8.9
+E00189,Sales Rep,Japan,APAC,1.1
+E00190,MSL,Japan,APAC,3.9
+E00191,MSL,Brazil,Americas,2.3
+E00192,MSL,United Kingdom,EMEA,0.1
+E00193,Market Access,United States,Americas,4.3
+E00194,Sales Rep,Germany,EMEA,4.1
+E00195,Regional Manager,Mexico,Americas,9.0
+E00196,MSL,Japan,APAC,6.4
+E00197,Sales Rep,United States,Americas,1.4
+E00198,Regional Manager,Brazil,Americas,10.1
+E00199,MSL,France,EMEA,8.2
+E00200,Sales Rep,France,EMEA,6.2
+E00201,MSL,India,APAC,3.8
+E00202,MSL,Germany,EMEA,1.6
+E00203,MSL,Japan,APAC,3.4
+E00204,MSL,United Kingdom,EMEA,7.8
+E00205,MSL,Japan,APAC,10.2
+E00206,MSL,France,EMEA,9.1
+E00207,Sales Rep,India,APAC,3.0
+E00208,Market Access,Canada,Americas,1.1
+E00209,MSL,Canada,Americas,4.9
+E00210,Sales Rep,Brazil,Americas,0.1
+E00211,MSL,United States,Americas,5.5
+E00212,Medical Manager,France,EMEA,4.1
+E00213,Medical Manager,Mexico,Americas,3.1
+E00214,Sales Rep,Canada,Americas,0.1
+E00215,Sales Rep,Mexico,Americas,6.0
+E00216,Sales Rep,India,APAC,2.9
+E00217,Sales Rep,Mexico,Americas,1.0
+E00218,MSL,United States,Americas,0.1
+E00219,Sales Rep,Italy,EMEA,4.4
+E00220,MSL,Brazil,Americas,9.8
+E00221,Regional Manager,Germany,EMEA,9.5
+E00222,Sales Rep,Germany,EMEA,3.1
+E00223,MSL,United States,Americas,2.7
+E00224,MSL,United States,Americas,5.9
+E00225,MSL,India,APAC,1.5
+E00226,Sales Rep,India,APAC,5.4
+E00227,MSL,Japan,APAC,6.8
+E00228,Sales Rep,Mexico,Americas,8.2
+E00229,Sales Rep,India,APAC,4.2
+E00230,Medical Manager,Germany,EMEA,3.9
+E00231,MSL,Germany,EMEA,1.9
+E00232,Sales Rep,Italy,EMEA,2.0
+E00233,Medical Manager,United Kingdom,EMEA,3.8
+E00234,Sales Rep,Mexico,Americas,5.6
+E00235,Sales Rep,Brazil,Americas,7.2
+E00236,Sales Rep,India,APAC,2.1
+E00237,Medical Manager,Germany,EMEA,9.0
+E00238,Sales Rep,United Kingdom,EMEA,3.7
+E00239,Sales Rep,Brazil,Americas,4.4
+E00240,Sales Rep,Canada,Americas,2.3
+E00241,MSL,Italy,EMEA,0.1
+E00242,MSL,Germany,EMEA,7.2
+E00243,Sales Rep,Canada,Americas,6.7
+E00244,Sales Rep,Mexico,Americas,3.7
+E00245,Medical Manager,Canada,Americas,4.7
+E00246,Sales Rep,Japan,APAC,6.0
+E00247,Medical Manager,Mexico,Americas,0.1
+E00248,MSL,Brazil,Americas,2.9
+E00249,Sales Rep,Brazil,Americas,6.9
+E00250,Sales Rep,United Kingdom,EMEA,0.7
+E00251,Sales Rep,India,APAC,5.4
+E00252,MSL,Canada,Americas,0.4
+E00253,Sales Rep,United Kingdom,EMEA,5.9
+E00254,MSL,United States,Americas,4.4
+E00255,Regional Manager,United Kingdom,EMEA,0.1
+E00256,MSL,Canada,Americas,8.0
+E00257,Sales Rep,Japan,APAC,2.3
+E00258,Medical Manager,United Kingdom,EMEA,2.1
+E00259,Regional Manager,India,APAC,5.1
+E00260,MSL,United States,Americas,7.9
+E00261,MSL,Mexico,Americas,1.5
+E00262,Sales Rep,Italy,EMEA,4.7
+E00263,Medical Manager,Brazil,Americas,5.8
+E00264,Sales Rep,India,APAC,6.6
+E00265,MSL,Germany,EMEA,5.0
+E00266,Sales Rep,India,APAC,3.4
+E00267,MSL,Brazil,Americas,2.0
+E00268,MSL,Brazil,Americas,4.8
+E00269,Sales Rep,Italy,EMEA,1.3
+E00270,Sales Rep,Germany,EMEA,0.1
+E00271,Sales Rep,United States,Americas,5.8
+E00272,MSL,Brazil,Americas,7.2
+E00273,Market Access,United Kingdom,EMEA,0.1
+E00274,MSL,India,APAC,1.5
+E00275,Sales Rep,United States,Americas,6.4
+E00276,Sales Rep,Brazil,Americas,10.7
+E00277,Medical Manager,Brazil,Americas,4.6
+E00278,MSL,Brazil,Americas,2.3
+E00279,MSL,France,EMEA,4.0
+E00280,Market Access,United States,Americas,8.6
+E00281,Medical Manager,Japan,APAC,2.6
+E00282,Regional Manager,United States,Americas,2.1
+E00283,Sales Rep,Germany,EMEA,3.1
+E00284,Regional Manager,Brazil,Americas,1.6
+E00285,Regional Manager,India,APAC,4.9
+E00286,Sales Rep,Germany,EMEA,9.4
+E00287,Sales Rep,France,EMEA,5.5
+E00288,MSL,Canada,Americas,3.7
+E00289,MSL,Germany,EMEA,3.6
+E00290,Regional Manager,Canada,Americas,0.1
+E00291,Sales Rep,United Kingdom,EMEA,7.1
+E00292,Sales Rep,Germany,EMEA,4.3
+E00293,Medical Manager,Germany,EMEA,4.0
+E00294,Sales Rep,Mexico,Americas,14.1
+E00295,MSL,Canada,Americas,5.4
+E00296,Regional Manager,Italy,EMEA,2.2
+E00297,Sales Rep,Italy,EMEA,3.2
+E00298,Sales Rep,France,EMEA,7.9
+E00299,Sales Rep,Brazil,Americas,4.8
+E00300,Regional Manager,Brazil,Americas,0.2
+E00301,MSL,United States,Americas,7.3
+E00302,MSL,Mexico,Americas,2.5
+E00303,Sales Rep,Germany,EMEA,10.1
+E00304,MSL,India,APAC,7.7
+E00305,Market Access,Italy,EMEA,3.2
+E00306,Sales Rep,France,EMEA,8.3
+E00307,Medical Manager,Mexico,Americas,4.7
+E00308,MSL,United States,Americas,7.1
+E00309,Sales Rep,Canada,Americas,6.0
+E00310,MSL,United States,Americas,2.0
+E00311,Sales Rep,Italy,EMEA,2.6
+E00312,Sales Rep,India,APAC,7.6
+E00313,Regional Manager,Mexico,Americas,3.5
+E00314,MSL,Germany,EMEA,3.3
+E00315,Regional Manager,Italy,EMEA,1.6
+E00316,Sales Rep,India,APAC,5.8
+E00317,Regional Manager,India,APAC,10.7
+E00318,Sales Rep,Brazil,Americas,1.3
+E00319,Sales Rep,Italy,EMEA,4.6
+E00320,Regional Manager,France,EMEA,8.7
+E00321,Regional Manager,Mexico,Americas,4.3
+E00322,Medical Manager,India,APAC,5.9
+E00323,Regional Manager,Brazil,Americas,1.3
+E00324,MSL,Japan,APAC,5.8
+E00325,Regional Manager,India,APAC,3.9
+E00326,MSL,Mexico,Americas,7.5
+E00327,Medical Manager,Germany,EMEA,8.1
+E00328,MSL,Brazil,Americas,12.3
+E00329,Sales Rep,Mexico,Americas,6.2
+E00330,MSL,United Kingdom,EMEA,5.5
+E00331,MSL,Japan,APAC,5.1
+E00332,MSL,United States,Americas,3.4
+E00333,MSL,France,EMEA,5.5
+E00334,Sales Rep,France,EMEA,3.6
+E00335,MSL,Italy,EMEA,5.0
+E00336,MSL,Mexico,Americas,8.5
+E00337,Sales Rep,Germany,EMEA,1.5
+E00338,MSL,United Kingdom,EMEA,7.9
+E00339,Medical Manager,France,EMEA,8.5
+E00340,Medical Manager,India,APAC,4.1
+E00341,MSL,Mexico,Americas,0.1
+E00342,Sales Rep,France,EMEA,2.7
+E00343,Medical Manager,Canada,Americas,8.4
+E00344,Sales Rep,Brazil,Americas,4.4
+E00345,Sales Rep,India,APAC,1.5
+E00346,Regional Manager,India,APAC,3.0
+E00347,Sales Rep,Canada,Americas,7.0
+E00348,Regional Manager,United States,Americas,6.1
+E00349,MSL,Canada,Americas,3.8
+E00350,Market Access,Germany,EMEA,3.4
+E00351,Sales Rep,Italy,EMEA,3.3
+E00352,Sales Rep,France,EMEA,1.7
+E00353,Sales Rep,Canada,Americas,9.3
+E00354,Sales Rep,Brazil,Americas,3.5
+E00355,Sales Rep,Mexico,Americas,8.2
+E00356,Sales Rep,Canada,Americas,9.1
+E00357,Sales Rep,United Kingdom,EMEA,7.5
+E00358,Medical Manager,Japan,APAC,3.2
+E00359,Sales Rep,Japan,APAC,5.7
+E00360,Sales Rep,Italy,EMEA,4.4
+E00361,Sales Rep,Brazil,Americas,1.8
+E00362,Sales Rep,Japan,APAC,5.5
+E00363,Regional Manager,India,APAC,1.0
+E00364,Sales Rep,Canada,Americas,8.1
+E00365,MSL,Brazil,Americas,3.1
+E00366,Sales Rep,Italy,EMEA,5.1
+E00367,Medical Manager,India,APAC,5.3
+E00368,Sales Rep,United States,Americas,3.7
+E00369,Sales Rep,Brazil,Americas,6.3
+E00370,Regional Manager,Japan,APAC,3.1
+E00371,MSL,Mexico,Americas,7.1
+E00372,Sales Rep,Japan,APAC,0.5
+E00373,Sales Rep,Japan,APAC,4.9
+E00374,Market Access,Mexico,Americas,10.3
+E00375,MSL,India,APAC,1.5
+E00376,MSL,India,APAC,2.5
+E00377,Sales Rep,Canada,Americas,6.0
+E00378,MSL,Germany,EMEA,5.0
+E00379,Sales Rep,United States,Americas,5.6
+E00380,MSL,Italy,EMEA,6.0
+E00381,Market Access,Mexico,Americas,6.4
+E00382,MSL,Canada,Americas,7.8
+E00383,Sales Rep,United States,Americas,5.7
+E00384,MSL,United Kingdom,EMEA,3.8
+E00385,Market Access,Brazil,Americas,6.5
+E00386,Sales Rep,Mexico,Americas,10.2
+E00387,Sales Rep,United Kingdom,EMEA,4.1
+E00388,Sales Rep,France,EMEA,1.6
+E00389,MSL,United Kingdom,EMEA,7.8
+E00390,Regional Manager,Mexico,Americas,4.1
+E00391,Sales Rep,France,EMEA,0.1
+E00392,Sales Rep,United Kingdom,EMEA,7.0
+E00393,Sales Rep,Brazil,Americas,2.9
+E00394,Market Access,United States,Americas,4.2
+E00395,Regional Manager,Japan,APAC,5.5
+E00396,MSL,Brazil,Americas,5.1
+E00397,Sales Rep,India,APAC,6.6
+E00398,MSL,Brazil,Americas,3.2
+E00399,MSL,Brazil,Americas,6.0
+E00400,Regional Manager,India,APAC,3.7
+E00401,MSL,Mexico,Americas,6.7
+E00402,Medical Manager,Japan,APAC,6.3
+E00403,MSL,France,EMEA,1.7
+E00404,Sales Rep,Japan,APAC,7.8
+E00405,Sales Rep,France,EMEA,2.9
+E00406,Sales Rep,France,EMEA,6.9
+E00407,Sales Rep,Brazil,Americas,5.6
+E00408,Sales Rep,Japan,APAC,10.0
+E00409,Sales Rep,Japan,APAC,3.8
+E00410,Market Access,Mexico,Americas,3.5
+E00411,MSL,United Kingdom,EMEA,4.4
+E00412,Sales Rep,Japan,APAC,3.6
+E00413,Sales Rep,France,EMEA,6.9
+E00414,Sales Rep,Germany,EMEA,0.1
+E00415,Sales Rep,Brazil,Americas,1.3
+E00416,MSL,France,EMEA,1.3
+E00417,MSL,Brazil,Americas,7.4
+E00418,Sales Rep,Canada,Americas,9.6
+E00419,MSL,United States,Americas,4.2
+E00420,Sales Rep,Canada,Americas,4.0
+E00421,Sales Rep,Germany,EMEA,4.7
+E00422,MSL,Japan,APAC,8.0
+E00423,Sales Rep,Mexico,Americas,1.7
+E00424,Sales Rep,Germany,EMEA,5.2
+E00425,Regional Manager,Canada,Americas,7.4
+E00426,Medical Manager,Germany,EMEA,6.0
+E00427,Sales Rep,France,EMEA,5.1
+E00428,Medical Manager,Japan,APAC,7.5
+E00429,MSL,Japan,APAC,0.1
+E00430,MSL,Brazil,Americas,6.5
+E00431,Sales Rep,United States,Americas,2.5
+E00432,MSL,United States,Americas,0.1
+E00433,Sales Rep,Japan,APAC,6.0
+E00434,Sales Rep,Canada,Americas,8.6
+E00435,Medical Manager,United States,Americas,4.1
+E00436,Sales Rep,Brazil,Americas,7.4
+E00437,MSL,United States,Americas,9.3
+E00438,Market Access,United Kingdom,EMEA,8.4
+E00439,Sales Rep,India,APAC,9.4
+E00440,Sales Rep,Brazil,Americas,6.7
+E00441,Sales Rep,India,APAC,4.7
+E00442,Sales Rep,Italy,EMEA,0.1
+E00443,Sales Rep,India,APAC,3.8
+E00444,Sales Rep,France,EMEA,2.0
+E00445,Medical Manager,Japan,APAC,11.0
+E00446,Regional Manager,Brazil,Americas,4.0
+E00447,Sales Rep,Canada,Americas,4.9
+E00448,Medical Manager,Germany,EMEA,6.2
+E00449,Sales Rep,United Kingdom,EMEA,4.6
+E00450,Regional Manager,Japan,APAC,9.6
+E00451,Sales Rep,Japan,APAC,2.6
+E00452,Sales Rep,Canada,Americas,5.1
+E00453,Medical Manager,India,APAC,2.3
+E00454,Sales Rep,Canada,Americas,0.5
+E00455,Sales Rep,India,APAC,2.7
+E00456,Sales Rep,United Kingdom,EMEA,4.4
+E00457,MSL,Japan,APAC,3.2
+E00458,Regional Manager,France,EMEA,2.4
+E00459,MSL,United Kingdom,EMEA,0.3
+E00460,Sales Rep,United Kingdom,EMEA,4.3
+E00461,Sales Rep,Japan,APAC,0.1
+E00462,Sales Rep,Japan,APAC,6.8
+E00463,MSL,France,EMEA,4.7
+E00464,Medical Manager,Brazil,Americas,0.1
+E00465,Sales Rep,United Kingdom,EMEA,3.6
+E00466,Sales Rep,Canada,Americas,2.2
+E00467,Regional Manager,Germany,EMEA,5.5
+E00468,Sales Rep,United Kingdom,EMEA,8.5
+E00469,Sales Rep,India,APAC,0.1
+E00470,MSL,Japan,APAC,4.8
+E00471,Medical Manager,Canada,Americas,4.0
+E00472,Sales Rep,Mexico,Americas,6.5
+E00473,Medical Manager,Germany,EMEA,5.1
+E00474,Sales Rep,United States,Americas,2.2
+E00475,Sales Rep,Japan,APAC,3.5
+E00476,Medical Manager,France,EMEA,2.1
+E00477,Sales Rep,United States,Americas,7.7
+E00478,Sales Rep,Brazil,Americas,4.6
+E00479,Medical Manager,Japan,APAC,10.2
+E00480,MSL,Japan,APAC,4.3
+E00481,Sales Rep,Brazil,Americas,2.4
+E00482,Sales Rep,France,EMEA,0.1
+E00483,MSL,Germany,EMEA,0.1
+E00484,Sales Rep,Canada,Americas,0.1
+E00485,Sales Rep,Germany,EMEA,5.3
+E00486,Sales Rep,United States,Americas,6.0
+E00487,Sales Rep,Germany,EMEA,0.1
+E00488,MSL,Japan,APAC,7.2
+E00489,Regional Manager,India,APAC,3.1
+E00490,MSL,Canada,Americas,4.9
+E00491,MSL,Brazil,Americas,9.3
+E00492,Sales Rep,Canada,Americas,7.2
+E00493,Medical Manager,India,APAC,3.7
+E00494,Sales Rep,Germany,EMEA,1.8
+E00495,Sales Rep,United States,Americas,0.1
+E00496,MSL,United States,Americas,2.3
+E00497,Regional Manager,Italy,EMEA,3.9
+E00498,MSL,Italy,EMEA,1.5
+E00499,MSL,France,EMEA,4.1
+E00500,Medical Manager,India,APAC,4.7
+E00501,Sales Rep,United Kingdom,EMEA,3.8
+E00502,Medical Manager,Brazil,Americas,2.5
+E00503,MSL,France,EMEA,5.0
+E00504,Sales Rep,United States,Americas,5.8
+E00505,MSL,France,EMEA,1.2
+E00506,Market Access,Japan,APAC,8.7
+E00507,Sales Rep,Japan,APAC,4.2
+E00508,MSL,Japan,APAC,4.6
+E00509,Sales Rep,Italy,EMEA,6.6
+E00510,Sales Rep,India,APAC,5.2
+E00511,Sales Rep,United States,Americas,7.4
+E00512,Market Access,India,APAC,5.4
+E00513,MSL,Japan,APAC,2.7
+E00514,MSL,Canada,Americas,5.6
+E00515,Sales Rep,Brazil,Americas,1.1
+E00516,MSL,India,APAC,4.8
+E00517,MSL,Canada,Americas,4.4
+E00518,Sales Rep,Japan,APAC,3.9
+E00519,MSL,United States,Americas,4.1
+E00520,MSL,India,APAC,0.1
+E00521,Sales Rep,United Kingdom,EMEA,2.9
+E00522,Regional Manager,India,APAC,4.8
+E00523,MSL,Germany,EMEA,5.0
+E00524,Sales Rep,Mexico,Americas,1.4
+E00525,Sales Rep,India,APAC,8.3
+E00526,MSL,Brazil,Americas,1.9
+E00527,Sales Rep,Japan,APAC,7.4
+E00528,MSL,Italy,EMEA,5.8
+E00529,Regional Manager,Canada,Americas,2.6
+E00530,Regional Manager,Mexico,Americas,9.8
+E00531,Sales Rep,Japan,APAC,0.9
+E00532,MSL,Brazil,Americas,7.3
+E00533,Market Access,India,APAC,7.5
+E00534,Medical Manager,Mexico,Americas,2.5
+E00535,MSL,France,EMEA,8.7
+E00536,MSL,Brazil,Americas,3.7
+E00537,MSL,Germany,EMEA,5.4
+E00538,Sales Rep,France,EMEA,5.3
+E00539,MSL,France,EMEA,4.1
+E00540,Medical Manager,Germany,EMEA,6.9
+E00541,Sales Rep,Japan,APAC,6.9
+E00542,MSL,Italy,EMEA,0.1
+E00543,Sales Rep,United States,Americas,8.4
+E00544,Sales Rep,Brazil,Americas,0.1
+E00545,Sales Rep,France,EMEA,7.6
+E00546,Sales Rep,United Kingdom,EMEA,7.9
+E00547,Sales Rep,Germany,EMEA,1.2
+E00548,MSL,Germany,EMEA,3.3
+E00549,MSL,Germany,EMEA,1.2
+E00550,Sales Rep,Japan,APAC,3.9
+E00551,Medical Manager,Mexico,Americas,3.6
+E00552,Medical Manager,United States,Americas,6.8
+E00553,Sales Rep,United Kingdom,EMEA,8.4
+E00554,Regional Manager,France,EMEA,8.7
+E00555,MSL,United Kingdom,EMEA,2.8
+E00556,MSL,Germany,EMEA,3.9
+E00557,Medical Manager,Japan,APAC,0.1
+E00558,Market Access,Germany,EMEA,2.1
+E00559,MSL,Canada,Americas,7.4
+E00560,Medical Manager,Germany,EMEA,9.3
+E00561,MSL,United States,Americas,0.8
+E00562,MSL,France,EMEA,2.7
+E00563,Regional Manager,Italy,EMEA,4.4
+E00564,MSL,France,EMEA,5.3
+E00565,Medical Manager,Japan,APAC,2.1
+E00566,MSL,Japan,APAC,5.8
+E00567,Sales Rep,Germany,EMEA,3.1
+E00568,Sales Rep,Mexico,Americas,4.5
+E00569,Sales Rep,France,EMEA,6.1
+E00570,Sales Rep,Italy,EMEA,4.5
+E00571,Medical Manager,India,APAC,3.2
+E00572,Sales Rep,United States,Americas,4.2
+E00573,Sales Rep,Japan,APAC,4.2
+E00574,Sales Rep,United Kingdom,EMEA,3.4
+E00575,Sales Rep,Brazil,Americas,3.7
+E00576,Sales Rep,India,APAC,9.3
+E00577,Sales Rep,Italy,EMEA,6.2
+E00578,Sales Rep,United Kingdom,EMEA,3.6
+E00579,Sales Rep,Italy,EMEA,6.6
+E00580,Sales Rep,India,APAC,3.5
+E00581,Regional Manager,India,APAC,8.0
+E00582,Medical Manager,United Kingdom,EMEA,5.6
+E00583,Regional Manager,Mexico,Americas,4.2
+E00584,Sales Rep,Japan,APAC,5.8
+E00585,MSL,United States,Americas,0.1
+E00586,Regional Manager,United Kingdom,EMEA,1.1
+E00587,Sales Rep,Germany,EMEA,0.9
+E00588,Market Access,India,APAC,4.9
+E00589,Sales Rep,France,EMEA,9.7
+E00590,Medical Manager,India,APAC,11.2
+E00591,Regional Manager,France,EMEA,6.4
+E00592,Market Access,United States,Americas,6.0
+E00593,Market Access,United Kingdom,EMEA,0.1
+E00594,Sales Rep,India,APAC,2.9
+E00595,Regional Manager,United Kingdom,EMEA,2.1
+E00596,Regional Manager,Mexico,Americas,2.6
+E00597,Medical Manager,United States,Americas,4.0
+E00598,MSL,United Kingdom,EMEA,3.1
+E00599,MSL,France,EMEA,0.1
+E00600,MSL,Japan,APAC,6.7
+E00601,MSL,United Kingdom,EMEA,1.3
+E00602,MSL,Canada,Americas,5.2
+E00603,Regional Manager,Mexico,Americas,10.7
+E00604,Medical Manager,India,APAC,1.7
+E00605,Sales Rep,Brazil,Americas,0.1
+E00606,Sales Rep,United Kingdom,EMEA,3.6
+E00607,MSL,France,EMEA,7.8
+E00608,Sales Rep,United Kingdom,EMEA,10.4
+E00609,MSL,Germany,EMEA,0.8
+E00610,MSL,Brazil,Americas,6.0
+E00611,Sales Rep,France,EMEA,3.1
+E00612,MSL,United Kingdom,EMEA,4.2
+E00613,Medical Manager,Italy,EMEA,12.4
+E00614,MSL,Brazil,Americas,0.1
+E00615,Sales Rep,United Kingdom,EMEA,5.3
+E00616,Medical Manager,United States,Americas,5.9
+E00617,MSL,Brazil,Americas,7.8
+E00618,Sales Rep,Mexico,Americas,4.8
+E00619,Sales Rep,Germany,EMEA,5.4
+E00620,MSL,Canada,Americas,3.3
+E00621,Sales Rep,Japan,APAC,5.3
+E00622,Medical Manager,Italy,EMEA,3.5
+E00623,MSL,Canada,Americas,6.4
+E00624,Medical Manager,United Kingdom,EMEA,3.4
+E00625,Sales Rep,Italy,EMEA,5.6
+E00626,MSL,Brazil,Americas,4.4
+E00627,MSL,Canada,Americas,7.9
+E00628,MSL,India,APAC,4.3
+E00629,Sales Rep,Italy,EMEA,0.1
+E00630,MSL,United Kingdom,EMEA,8.3
+E00631,MSL,Mexico,Americas,1.8
+E00632,MSL,France,EMEA,2.5
+E00633,Sales Rep,India,APAC,2.7
+E00634,Sales Rep,United States,Americas,8.6
+E00635,MSL,France,EMEA,0.1
+E00636,Sales Rep,Japan,APAC,13.9
+E00637,Sales Rep,United Kingdom,EMEA,7.7
+E00638,MSL,United Kingdom,EMEA,5.2
+E00639,Regional Manager,India,APAC,4.3
+E00640,MSL,Canada,Americas,5.4
+E00641,Market Access,India,APAC,6.1
+E00642,MSL,Japan,APAC,6.4
+E00643,Medical Manager,India,APAC,6.2
+E00644,MSL,France,EMEA,4.8
+E00645,MSL,Japan,APAC,3.9
+E00646,Market Access,France,EMEA,4.0
+E00647,Regional Manager,United Kingdom,EMEA,3.9
+E00648,MSL,Germany,EMEA,7.9
+E00649,MSL,Japan,APAC,6.3
+E00650,Regional Manager,France,EMEA,0.1
+E00651,Regional Manager,Mexico,Americas,6.5
+E00652,MSL,Germany,EMEA,5.1
+E00653,Sales Rep,India,APAC,4.4
+E00654,MSL,Mexico,Americas,3.3
+E00655,MSL,United States,Americas,7.9
+E00656,Sales Rep,Germany,EMEA,7.3
+E00657,Sales Rep,Mexico,Americas,2.2
+E00658,Sales Rep,Japan,APAC,5.7
+E00659,Sales Rep,France,EMEA,1.6
+E00660,Sales Rep,Canada,Americas,0.4
+E00661,Regional Manager,Brazil,Americas,2.6
+E00662,Sales Rep,Italy,EMEA,7.1
+E00663,Sales Rep,Japan,APAC,7.4
+E00664,Sales Rep,United Kingdom,EMEA,6.0
+E00665,Sales Rep,United States,Americas,6.7
+E00666,Sales Rep,Canada,Americas,6.0
+E00667,Regional Manager,Japan,APAC,2.6
+E00668,MSL,India,APAC,5.8
+E00669,Sales Rep,Canada,Americas,6.9
+E00670,MSL,France,EMEA,6.8
+E00671,Medical Manager,Japan,APAC,8.1
+E00672,Sales Rep,Japan,APAC,6.6
+E00673,Sales Rep,Mexico,Americas,5.6
+E00674,MSL,Canada,Americas,7.7
+E00675,Sales Rep,India,APAC,4.4
+E00676,Sales Rep,India,APAC,1.9
+E00677,Market Access,United States,Americas,4.0
+E00678,MSL,Japan,APAC,2.3
+E00679,Regional Manager,Germany,EMEA,2.5
+E00680,MSL,United States,Americas,4.1
+E00681,MSL,Brazil,Americas,2.1
+E00682,MSL,Germany,EMEA,3.6
+E00683,Sales Rep,Germany,EMEA,0.1
+E00684,MSL,Canada,Americas,5.1
+E00685,Market Access,United States,Americas,4.5
+E00686,Sales Rep,United Kingdom,EMEA,2.0
+E00687,MSL,Japan,APAC,6.5
+E00688,Sales Rep,United States,Americas,7.3
+E00689,Sales Rep,United Kingdom,EMEA,0.1
+E00690,Sales Rep,United States,Americas,2.2
+E00691,Sales Rep,Italy,EMEA,2.2
+E00692,Sales Rep,Canada,Americas,1.7
+E00693,MSL,United Kingdom,EMEA,7.0
+E00694,MSL,India,APAC,3.9
+E00695,Regional Manager,Japan,APAC,3.7
+E00696,Sales Rep,United States,Americas,0.1
+E00697,Sales Rep,France,EMEA,6.4
+E00698,Sales Rep,United Kingdom,EMEA,0.8
+E00699,Sales Rep,Brazil,Americas,4.7
+E00700,MSL,Germany,EMEA,5.3
+E00701,Sales Rep,Brazil,Americas,8.6
+E00702,Medical Manager,Brazil,Americas,0.6
+E00703,Sales Rep,France,EMEA,0.1
+E00704,MSL,India,APAC,5.1
+E00705,MSL,United States,Americas,9.9
+E00706,Sales Rep,Mexico,Americas,8.2
+E00707,Sales Rep,United States,Americas,5.1
+E00708,Sales Rep,Germany,EMEA,3.0
+E00709,Regional Manager,India,APAC,6.9
+E00710,Sales Rep,Brazil,Americas,1.6
+E00711,Sales Rep,Germany,EMEA,5.9
+E00712,Medical Manager,Italy,EMEA,6.0
+E00713,Sales Rep,Canada,Americas,7.7
+E00714,Medical Manager,United Kingdom,EMEA,12.8
+E00715,Regional Manager,India,APAC,5.7
+E00716,Sales Rep,Brazil,Americas,3.0
+E00717,MSL,Japan,APAC,4.4
+E00718,MSL,Germany,EMEA,0.1
+E00719,MSL,India,APAC,2.4
+E00720,Sales Rep,United States,Americas,3.3
+E00721,MSL,Canada,Americas,2.9
+E00722,Medical Manager,Italy,EMEA,5.0
+E00723,Sales Rep,France,EMEA,2.0
+E00724,Sales Rep,India,APAC,7.9
+E00725,Sales Rep,United Kingdom,EMEA,4.5
+E00726,Sales Rep,France,EMEA,4.5
+E00727,Medical Manager,France,EMEA,3.5
+E00728,Market Access,United Kingdom,EMEA,5.0
+E00729,MSL,United Kingdom,EMEA,7.0
+E00730,Medical Manager,United States,Americas,1.9
+E00731,Sales Rep,Canada,Americas,2.5
+E00732,Sales Rep,France,EMEA,3.6
+E00733,Sales Rep,Japan,APAC,0.5
+E00734,Medical Manager,Brazil,Americas,2.0
+E00735,Market Access,India,APAC,3.1
+E00736,MSL,Italy,EMEA,7.1
+E00737,Sales Rep,United Kingdom,EMEA,5.3
+E00738,MSL,France,EMEA,5.1
+E00739,Sales Rep,Canada,Americas,7.1
+E00740,Sales Rep,Germany,EMEA,4.1
+E00741,Medical Manager,Germany,EMEA,5.7
+E00742,Market Access,United Kingdom,EMEA,4.2
+E00743,Sales Rep,India,APAC,5.3
+E00744,Market Access,United Kingdom,EMEA,2.8
+E00745,Regional Manager,Mexico,Americas,0.1
+E00746,MSL,Mexico,Americas,4.1
+E00747,Sales Rep,Japan,APAC,8.8
+E00748,Sales Rep,Mexico,Americas,7.3
+E00749,Market Access,Japan,APAC,7.4
+E00750,Sales Rep,Mexico,Americas,8.2
+E00751,MSL,France,EMEA,4.8
+E00752,MSL,United States,Americas,5.1
+E00753,Regional Manager,United States,Americas,2.6
+E00754,Sales Rep,France,EMEA,3.6
+E00755,Medical Manager,Japan,APAC,6.3
+E00756,Sales Rep,United Kingdom,EMEA,8.1
+E00757,MSL,Germany,EMEA,4.1
+E00758,MSL,Japan,APAC,3.1
+E00759,Market Access,Mexico,Americas,4.5
+E00760,Medical Manager,India,APAC,6.3
+E00761,Sales Rep,Mexico,Americas,0.2
+E00762,Sales Rep,United States,Americas,0.1
+E00763,Regional Manager,Mexico,Americas,2.8
+E00764,Sales Rep,Japan,APAC,0.8
+E00765,Medical Manager,United States,Americas,3.0
+E00766,Sales Rep,Mexico,Americas,4.1
+E00767,MSL,Canada,Americas,3.1
+E00768,Sales Rep,Italy,EMEA,8.9
+E00769,Market Access,Japan,APAC,5.5
+E00770,Sales Rep,United States,Americas,5.4
+E00771,Sales Rep,Canada,Americas,6.4
+E00772,Market Access,Italy,EMEA,1.1
+E00773,Sales Rep,India,APAC,7.6
+E00774,MSL,Brazil,Americas,4.3
+E00775,Sales Rep,Japan,APAC,6.5
+E00776,MSL,Italy,EMEA,1.3
+E00777,MSL,Canada,Americas,0.1
+E00778,MSL,Canada,Americas,7.0
+E00779,MSL,Germany,EMEA,5.6
+E00780,Sales Rep,Germany,EMEA,1.8
+E00781,Regional Manager,Canada,Americas,1.9
+E00782,MSL,United Kingdom,EMEA,7.9
+E00783,Sales Rep,Brazil,Americas,0.9
+E00784,Market Access,United States,Americas,9.4
+E00785,MSL,United Kingdom,EMEA,1.8
+E00786,Regional Manager,United Kingdom,EMEA,6.4
+E00787,Regional Manager,United States,Americas,3.5
+E00788,Regional Manager,United States,Americas,6.3
+E00789,Sales Rep,Mexico,Americas,2.9
+E00790,Sales Rep,India,APAC,4.0
+E00791,MSL,United Kingdom,EMEA,4.6
+E00792,MSL,Mexico,Americas,1.5
+E00793,Regional Manager,United States,Americas,6.7
+E00794,Sales Rep,Italy,EMEA,3.0
+E00795,MSL,India,APAC,3.8
+E00796,Sales Rep,Mexico,Americas,1.5
+E00797,Sales Rep,Italy,EMEA,0.1
+E00798,Medical Manager,Canada,Americas,3.9
+E00799,Market Access,Italy,EMEA,11.7
+E00800,Market Access,India,APAC,6.9
+E00801,Sales Rep,Italy,EMEA,4.4
+E00802,Sales Rep,Mexico,Americas,3.7
+E00803,Sales Rep,Germany,EMEA,4.6
+E00804,Medical Manager,India,APAC,6.1
+E00805,Medical Manager,Canada,Americas,1.0
+E00806,Medical Manager,Mexico,Americas,7.8
+E00807,Sales Rep,Italy,EMEA,6.6
+E00808,Market Access,Italy,EMEA,6.7
+E00809,Medical Manager,United States,Americas,5.8
+E00810,Medical Manager,United Kingdom,EMEA,4.6
+E00811,Medical Manager,Germany,EMEA,6.5
+E00812,Sales Rep,Canada,Americas,6.3
+E00813,MSL,Germany,EMEA,3.4
+E00814,Sales Rep,Canada,Americas,2.8
+E00815,Regional Manager,United States,Americas,4.8
+E00816,Sales Rep,India,APAC,9.1
+E00817,Medical Manager,Germany,EMEA,0.8
+E00818,Regional Manager,United States,Americas,0.1
+E00819,Sales Rep,Japan,APAC,5.0
+E00820,MSL,Canada,Americas,4.7
+E00821,Sales Rep,Germany,EMEA,5.0
+E00822,MSL,United States,Americas,5.2
+E00823,Medical Manager,Brazil,Americas,3.8
+E00824,Sales Rep,India,APAC,9.0
+E00825,Sales Rep,India,APAC,0.1
+E00826,Medical Manager,Canada,Americas,2.0
+E00827,Sales Rep,Canada,Americas,4.2
+E00828,MSL,India,APAC,0.1
+E00829,Regional Manager,India,APAC,4.0
+E00830,Sales Rep,Canada,Americas,9.5
+E00831,MSL,United States,Americas,4.6
+E00832,MSL,Mexico,Americas,5.2
+E00833,Sales Rep,Germany,EMEA,0.7
+E00834,MSL,Canada,Americas,2.7
+E00835,Medical Manager,Canada,Americas,3.4
+E00836,Regional Manager,Italy,EMEA,3.5
+E00837,MSL,France,EMEA,8.3
+E00838,Sales Rep,Brazil,Americas,6.2
+E00839,MSL,Japan,APAC,1.2
+E00840,Sales Rep,Japan,APAC,5.2
+E00841,Medical Manager,France,EMEA,6.0
+E00842,Sales Rep,United States,Americas,7.9
+E00843,Sales Rep,Canada,Americas,9.2
+E00844,Sales Rep,Mexico,Americas,1.5
+E00845,Medical Manager,United Kingdom,EMEA,2.1
+E00846,MSL,France,EMEA,0.7
+E00847,Sales Rep,Canada,Americas,3.8
+E00848,Market Access,Mexico,Americas,5.9
+E00849,MSL,United Kingdom,EMEA,7.5
+E00850,Sales Rep,France,EMEA,4.3
+E00851,Medical Manager,United Kingdom,EMEA,3.5
+E00852,Regional Manager,United Kingdom,EMEA,5.0
+E00853,Sales Rep,India,APAC,2.0
+E00854,MSL,Italy,EMEA,10.8
+E00855,Medical Manager,Italy,EMEA,0.1
+E00856,Sales Rep,Mexico,Americas,5.1
+E00857,MSL,Japan,APAC,10.6
+E00858,MSL,Japan,APAC,4.5
+E00859,Regional Manager,Mexico,Americas,3.9
+E00860,Market Access,Canada,Americas,3.4
+E00861,Sales Rep,Canada,Americas,4.0
+E00862,Sales Rep,Mexico,Americas,8.6
+E00863,Regional Manager,Japan,APAC,0.1
+E00864,MSL,United States,Americas,9.1
+E00865,MSL,United States,Americas,0.2
+E00866,MSL,Italy,EMEA,3.7
+E00867,Sales Rep,Italy,EMEA,3.2
+E00868,Medical Manager,Mexico,Americas,6.3
+E00869,Sales Rep,India,APAC,0.1
+E00870,Medical Manager,France,EMEA,5.9
+E00871,Sales Rep,United States,Americas,10.6
+E00872,Sales Rep,Germany,EMEA,0.4
+E00873,Sales Rep,United Kingdom,EMEA,5.1
+E00874,Sales Rep,Brazil,Americas,2.5
+E00875,Regional Manager,Canada,Americas,5.8
+E00876,Sales Rep,Mexico,Americas,4.6
+E00877,Sales Rep,United States,Americas,2.6
+E00878,Sales Rep,Brazil,Americas,6.0
+E00879,MSL,Brazil,Americas,9.9
+E00880,Medical Manager,Mexico,Americas,3.9
+E00881,Sales Rep,Italy,EMEA,6.7
+E00882,Sales Rep,United States,Americas,0.6
+E00883,Regional Manager,Brazil,Americas,1.6
+E00884,Medical Manager,United States,Americas,5.9
+E00885,Sales Rep,France,EMEA,9.0
+E00886,Sales Rep,Germany,EMEA,5.6
+E00887,Sales Rep,Italy,EMEA,3.6
+E00888,Sales Rep,Italy,EMEA,4.5
+E00889,MSL,Mexico,Americas,0.7
+E00890,Market Access,United Kingdom,EMEA,6.3
+E00891,Regional Manager,Canada,Americas,7.1
+E00892,Sales Rep,Germany,EMEA,3.1
+E00893,Medical Manager,France,EMEA,3.1
+E00894,MSL,Italy,EMEA,5.3
+E00895,Sales Rep,Mexico,Americas,3.2
+E00896,Market Access,India,APAC,4.3
+E00897,Regional Manager,Italy,EMEA,10.8
+E00898,MSL,Canada,Americas,3.8
+E00899,Sales Rep,United Kingdom,EMEA,3.4
+E00900,Sales Rep,France,EMEA,2.6
+E00901,MSL,United States,Americas,6.7
+E00902,Regional Manager,Brazil,Americas,4.0
+E00903,Market Access,United Kingdom,EMEA,2.6
+E00904,Sales Rep,Japan,APAC,8.5
+E00905,Medical Manager,Germany,EMEA,8.8
+E00906,Sales Rep,Canada,Americas,2.7
+E00907,Sales Rep,United Kingdom,EMEA,0.1
+E00908,Sales Rep,United Kingdom,EMEA,7.5
+E00909,MSL,United Kingdom,EMEA,2.4
+E00910,MSL,Mexico,Americas,6.9
+E00911,MSL,United Kingdom,EMEA,0.1
+E00912,MSL,Japan,APAC,7.2
+E00913,Sales Rep,Canada,Americas,0.9
+E00914,MSL,Canada,Americas,6.7
+E00915,Sales Rep,Italy,EMEA,4.5
+E00916,MSL,Italy,EMEA,1.6
+E00917,Sales Rep,Italy,EMEA,3.3
+E00918,Sales Rep,Brazil,Americas,6.6
+E00919,MSL,India,APAC,4.8
+E00920,Sales Rep,Mexico,Americas,6.3
+E00921,Sales Rep,Germany,EMEA,10.4
+E00922,Sales Rep,Germany,EMEA,0.1
+E00923,Sales Rep,United Kingdom,EMEA,9.4
+E00924,Sales Rep,Canada,Americas,4.8
+E00925,MSL,United Kingdom,EMEA,1.8
+E00926,MSL,India,APAC,0.5
+E00927,Sales Rep,India,APAC,3.9
+E00928,Sales Rep,Japan,APAC,7.3
+E00929,Sales Rep,India,APAC,4.1
+E00930,Sales Rep,Japan,APAC,9.0
+E00931,Sales Rep,Germany,EMEA,0.1
+E00932,Sales Rep,Germany,EMEA,4.5
+E00933,MSL,United Kingdom,EMEA,0.7
+E00934,Medical Manager,Germany,EMEA,5.6
+E00935,Sales Rep,Italy,EMEA,7.2
+E00936,Sales Rep,Germany,EMEA,3.2
+E00937,Sales Rep,United Kingdom,EMEA,0.1
+E00938,MSL,Italy,EMEA,5.1
+E00939,Sales Rep,Brazil,Americas,5.8
+E00940,Sales Rep,Brazil,Americas,5.7
+E00941,Market Access,Canada,Americas,8.2
+E00942,Regional Manager,United Kingdom,EMEA,1.3
+E00943,Medical Manager,United States,Americas,6.5
+E00944,Medical Manager,Brazil,Americas,8.1
+E00945,Regional Manager,India,APAC,0.1
+E00946,Medical Manager,Canada,Americas,5.5
+E00947,MSL,United States,Americas,3.0
+E00948,Market Access,United Kingdom,EMEA,4.3
+E00949,Regional Manager,France,EMEA,5.5
+E00950,Sales Rep,Italy,EMEA,3.0
+E00951,MSL,Italy,EMEA,2.5
+E00952,MSL,United Kingdom,EMEA,4.6
+E00953,Medical Manager,United Kingdom,EMEA,1.2
+E00954,Sales Rep,Japan,APAC,1.2
+E00955,Sales Rep,Germany,EMEA,6.5
+E00956,Sales Rep,Italy,EMEA,1.1
+E00957,Sales Rep,India,APAC,6.5
+E00958,Regional Manager,Japan,APAC,5.9
+E00959,Sales Rep,United States,Americas,0.1
+E00960,Regional Manager,Canada,Americas,2.5
+E00961,Regional Manager,Brazil,Americas,8.1
+E00962,MSL,United States,Americas,1.6
+E00963,Sales Rep,Mexico,Americas,3.1
+E00964,Sales Rep,India,APAC,5.9
+E00965,Medical Manager,India,APAC,6.9
+E00966,Sales Rep,United Kingdom,EMEA,3.7
+E00967,Sales Rep,Canada,Americas,2.7
+E00968,Regional Manager,United States,Americas,8.8
+E00969,Market Access,France,EMEA,9.7
+E00970,MSL,Mexico,Americas,7.4
+E00971,Regional Manager,Canada,Americas,4.8
+E00972,Regional Manager,Canada,Americas,2.1
+E00973,Sales Rep,India,APAC,2.0
+E00974,Sales Rep,India,APAC,6.1
+E00975,Sales Rep,India,APAC,5.8
+E00976,Sales Rep,Germany,EMEA,8.7
+E00977,MSL,Japan,APAC,6.5
+E00978,Sales Rep,Brazil,Americas,0.1
+E00979,MSL,Germany,EMEA,7.7
+E00980,Sales Rep,France,EMEA,1.5
+E00981,MSL,Canada,Americas,3.3
+E00982,Sales Rep,France,EMEA,5.3
+E00983,Sales Rep,India,APAC,10.5
+E00984,Sales Rep,Italy,EMEA,13.8
+E00985,Sales Rep,United Kingdom,EMEA,6.3
+E00986,Sales Rep,United States,Americas,4.0
+E00987,Sales Rep,United States,Americas,6.1
+E00988,Sales Rep,India,APAC,7.2
+E00989,Sales Rep,Germany,EMEA,3.5
+E00990,MSL,India,APAC,9.9
+E00991,Sales Rep,Germany,EMEA,5.2
+E00992,Sales Rep,Italy,EMEA,6.0
+E00993,Sales Rep,Italy,EMEA,6.5
+E00994,Sales Rep,Japan,APAC,5.8
+E00995,Regional Manager,Canada,Americas,7.0
+E00996,Sales Rep,Canada,Americas,2.6
+E00997,Sales Rep,Japan,APAC,2.8
+E00998,Market Access,United States,Americas,1.2
+E00999,Sales Rep,Japan,APAC,5.8
+E01000,MSL,India,APAC,6.8

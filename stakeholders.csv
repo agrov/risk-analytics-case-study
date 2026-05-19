@@ -1,0 +1,1801 @@
+stakeholder_id,stakeholder_type,country,specialty,risk_tier,onboarding_date
+S00001,HCP,Germany,Pulmonology,Low,2021-08-24
+S00002,HCP,France,Pediatrics,Medium,2021-02-21
+S00003,HCP,United Kingdom,Rheumatology,Low,2023-09-02
+S00004,HCP,Germany,Gastroenterology,Medium,2022-09-22
+S00005,HCP,United Kingdom,Pediatrics,Medium,2023-02-05
+S00006,HCP,India,Primary Care,Low,2023-10-06
+S00007,HCP,United States,Endocrinology,Medium,2021-08-13
+S00008,HCP,Mexico,Dermatology,,2023-08-24
+S00009,HCP,Mexico,Rheumatology,Low,2021-11-23
+S00010,HCP,Mexico,Nephrology,Low,2023-01-23
+S00011,HCP,Japan,Ophthalmology,Low,2021-10-18
+S00012,HCP,United Kingdom,Pediatrics,Medium,2022-12-12
+S00013,HCP,Mexico,Psychiatry,Low,2021-05-21
+S00014,HCP,Italy,Oncology,High,2023-03-31
+S00015,HCP,Italy,Infectious Disease,Medium,2022-09-29
+S00016,HCP,Mexico,Neurology,Low,2023-12-11
+S00017,HCP,Brazil,Pediatrics,Medium,2023-04-24
+S00018,HCP,Canada,Gastroenterology,Medium,2021-12-15
+S00019,HCP,France,Pulmonology,,2021-08-28
+S00020,HCP,Japan,Neurology,Medium,2022-09-14
+S00021,HCP,United States,Cardiology,Medium,2021-01-14
+S00022,HCP,India,Dermatology,High,2022-08-09
+S00023,HCO,Canada,Organization,Low,2022-02-01
+S00024,HCP,Japan,Ophthalmology,Medium,2021-05-01
+S00025,HCP,France,Dermatology,Medium,2023-06-26
+S00026,HCP,United Kingdom,Primary Care,Low,2021-05-19
+S00027,HCP,Canada,Dermatology,,2022-02-14
+S00028,HCP,France,Oncology,Medium,2021-05-19
+S00029,HCP,Germany,Endocrinology,Medium,2022-06-18
+S00030,HCP,India,Rheumatology,Low,2021-09-22
+S00031,HCP,Japan,Gastroenterology,High,2022-03-26
+S00032,HCP,United States,Oncology,Medium,2023-12-12
+S00033,HCP,United Kingdom,Nephrology,Medium,2021-09-13
+S00034,HCP,Germany,Endocrinology,Low,2023-07-19
+S00035,HCO,Brazil,Organization,Medium,2022-12-10
+S00036,HCO,United Kingdom,Organization,High,2022-05-11
+S00037,HCP,Brazil,Gastroenterology,Medium,2023-02-20
+S00038,HCP,France,Endocrinology,Low,2023-12-19
+S00039,HCO,United Kingdom,Organization,Medium,2023-05-05
+S00040,HCP,Japan,Ophthalmology,Low,2021-11-16
+S00041,HCP,France,Dermatology,High,2022-06-16
+S00042,HCP,Germany,Infectious Disease,Medium,2021-07-18
+S00043,HCP,United Kingdom,Endocrinology,Medium,2023-10-02
+S00044,HCP,United Kingdom,Gastroenterology,High,2021-05-21
+S00045,HCO,India,Organization,High,2022-08-11
+S00046,HCP,Italy,Rheumatology,,2021-11-17
+S00047,HCP,Mexico,Gastroenterology,Low,2023-11-28
+S00048,HCP,Italy,Neurology,Low,2023-06-10
+S00049,HCP,United Kingdom,Dermatology,Low,2021-03-12
+S00050,HCP,United States,Ophthalmology,Low,2021-03-16
+S00051,HCP,Mexico,Dermatology,Low,2022-06-15
+S00052,HCP,Japan,Endocrinology,Medium,2022-01-29
+S00053,HCP,Canada,Dermatology,Medium,2022-11-26
+S00054,HCP,Brazil,Oncology,Medium,2022-01-02
+S00055,HCP,Mexico,Infectious Disease,High,2023-07-24
+S00056,HCP,United States,Pediatrics,Low,2023-06-14
+S00057,HCP,India,Nephrology,High,2021-04-11
+S00058,HCP,Italy,Gastroenterology,Low,2023-04-07
+S00059,HCP,India,Infectious Disease,Low,2021-10-08
+S00060,HCP,Germany,Hematology,High,2022-10-03
+S00061,HCP,Germany,Gastroenterology,Medium,2021-03-21
+S00062,HCO,Germany,Organization,Medium,2023-03-12
+S00063,HCP,France,Infectious Disease,Low,2022-01-12
+S00064,HCO,India,Organization,Low,2023-01-29
+S00065,HCO,United States,Organization,Low,2021-08-06
+S00066,HCP,Canada,Psychiatry,,2021-01-20
+S00067,HCP,United Kingdom,Infectious Disease,Low,2021-11-01
+S00068,HCP,Brazil,Cardiology,Medium,2023-05-30
+S00069,HCP,United Kingdom,Neurology,Low,2021-11-29
+S00070,HCP,Canada,Ophthalmology,High,2023-06-28
+S00071,HCP,France,Gastroenterology,Low,2022-12-18
+S00072,HCP,France,Oncology,Medium,2022-08-27
+S00073,HCP,Italy,Ophthalmology,Medium,2021-02-01
+S00074,HCP,Canada,Primary Care,Low,2023-12-18
+S00075,HCP,Canada,Neurology,High,2023-10-29
+S00076,HCP,Italy,Neurology,Low,2022-07-30
+S00077,HCP,India,Pediatrics,Low,2022-03-25
+S00078,HCO,Mexico,Organization,High,2021-01-10
+S00079,HCP,United States,Primary Care,,2022-05-19
+S00080,HCP,Germany,Gastroenterology,Low,2022-12-06
+S00081,HCO,Mexico,Organization,High,2022-11-09
+S00082,HCP,Mexico,Infectious Disease,Medium,2023-03-19
+S00083,HCP,Brazil,Nephrology,Medium,2022-12-19
+S00084,HCP,United States,Gastroenterology,Low,2023-05-16
+S00085,HCO,Germany,Organization,Low,2021-03-20
+S00086,HCO,Germany,Organization,Medium,2023-11-22
+S00087,HCP,France,Primary Care,Low,2021-02-14
+S00088,HCP,Mexico,Pediatrics,High,2023-08-20
+S00089,HCP,United Kingdom,Ophthalmology,High,2023-06-15
+S00090,HCP,United States,Rheumatology,Medium,2021-11-13
+S00091,HCP,United States,Nephrology,Low,2021-06-16
+S00092,HCP,Brazil,Infectious Disease,Medium,2021-02-09
+S00093,HCP,India,Oncology,Low,2021-01-25
+S00094,HCP,France,Hematology,Low,2022-08-17
+S00095,HCP,United Kingdom,Endocrinology,Low,2022-11-21
+S00096,HCO,Mexico,Organization,Medium,2021-10-19
+S00097,HCO,United States,Organization,Low,2023-09-25
+S00098,HCP,Italy,Neurology,Medium,2022-02-17
+S00099,HCO,India,Organization,Medium,2022-01-06
+S00100,HCO,Italy,Organization,,2021-05-16
+S00101,HCO,France,Organization,Low,2022-04-29
+S00102,HCP,Mexico,Rheumatology,Medium,2022-03-30
+S00103,HCP,Italy,Nephrology,Medium,2021-03-09
+S00104,HCO,India,Organization,High,2022-08-17
+S00105,HCP,Italy,Ophthalmology,Low,2021-11-26
+S00106,HCP,Brazil,Hematology,Low,2022-11-30
+S00107,HCP,United States,Rheumatology,Low,2021-08-14
+S00108,HCO,Germany,Organization,Low,2021-10-29
+S00109,HCP,United Kingdom,Hematology,Low,2022-12-05
+S00110,HCP,United States,Pulmonology,Low,2023-06-09
+S00111,HCP,Brazil,Primary Care,Low,2021-02-27
+S00112,HCP,Mexico,Gastroenterology,Low,2021-07-24
+S00113,HCP,Canada,Cardiology,Medium,2021-08-21
+S00114,HCP,United States,Nephrology,Low,2021-12-20
+S00115,HCP,Italy,Oncology,High,2022-06-17
+S00116,HCP,Mexico,Pediatrics,Medium,2021-03-17
+S00117,HCP,Brazil,Pediatrics,Low,2023-09-28
+S00118,HCP,India,Gastroenterology,Low,2022-09-04
+S00119,HCP,India,Rheumatology,Medium,2023-05-16
+S00120,HCP,France,Pulmonology,Low,2021-12-14
+S00121,HCP,United States,Dermatology,Low,2022-07-10
+S00122,HCP,Canada,Neurology,Low,2021-02-06
+S00123,HCP,Japan,Gastroenterology,Low,2022-07-26
+S00124,HCP,France,Pulmonology,Low,2022-06-03
+S00125,HCP,Canada,Hematology,,2022-02-19
+S00126,HCP,Italy,Dermatology,Medium,2022-06-24
+S00127,HCP,France,Dermatology,,2021-03-25
+S00128,HCP,Japan,Oncology,Low,2022-03-27
+S00129,HCP,Canada,Psychiatry,Low,2021-10-28
+S00130,HCP,India,Pediatrics,Medium,2021-02-14
+S00131,HCP,Germany,Dermatology,Low,2023-06-26
+S00132,HCP,United Kingdom,Gastroenterology,Low,2022-04-09
+S00133,HCP,Germany,Nephrology,Low,2022-04-14
+S00134,HCO,United Kingdom,Organization,Medium,2021-05-04
+S00135,HCP,Japan,Psychiatry,High,2022-01-22
+S00136,HCP,India,Gastroenterology,Low,2022-03-24
+S00137,HCP,France,Infectious Disease,Low,2023-02-18
+S00138,HCP,Italy,Pulmonology,Medium,2022-02-17
+S00139,HCP,United Kingdom,Dermatology,Low,2022-03-09
+S00140,HCP,Germany,Dermatology,Low,2022-10-17
+S00141,HCO,Mexico,Organization,Low,2022-06-17
+S00142,HCP,United Kingdom,Psychiatry,Low,2021-05-25
+S00143,HCP,Italy,Rheumatology,Low,2022-02-02
+S00144,HCP,Japan,Dermatology,Medium,2023-09-11
+S00145,HCO,India,Organization,Medium,2023-12-31
+S00146,HCO,United States,Organization,Medium,2022-03-31
+S00147,HCP,India,Neurology,Low,2023-05-27
+S00148,HCO,India,Organization,,2021-08-30
+S00149,HCP,India,Psychiatry,Low,2022-12-13
+S00150,HCO,Canada,Organization,Low,2021-01-20
+S00151,HCP,Brazil,Cardiology,Low,2022-01-02
+S00152,HCP,India,Hematology,Low,2023-04-30
+S00153,HCO,France,Organization,Low,2021-09-18
+S00154,HCP,India,Pediatrics,Low,2023-06-13
+S00155,HCP,India,Infectious Disease,Low,2023-09-01
+S00156,HCP,Brazil,Dermatology,Low,2022-11-27
+S00157,HCP,Mexico,Rheumatology,Low,2021-11-26
+S00158,HCP,India,Oncology,Low,2023-03-14
+S00159,HCP,United Kingdom,Neurology,Low,2023-03-28
+S00160,HCP,Germany,Pediatrics,Low,2021-08-01
+S00161,HCO,United States,Organization,Low,2023-06-18
+S00162,HCP,United States,Dermatology,Low,2021-04-25
+S00163,HCP,Germany,Dermatology,Low,2021-12-11
+S00164,HCP,Brazil,Endocrinology,Medium,2023-08-11
+S00165,HCP,Germany,Endocrinology,,2022-05-03
+S00166,HCP,Germany,Ophthalmology,Low,2023-06-29
+S00167,HCP,India,Psychiatry,Low,2022-09-25
+S00168,HCP,Canada,Pediatrics,Low,2022-03-13
+S00169,HCO,Brazil,Organization,Medium,2021-11-29
+S00170,HCP,Germany,Primary Care,Medium,2021-05-22
+S00171,HCP,Mexico,Pediatrics,Low,2022-11-25
+S00172,HCP,United Kingdom,Cardiology,Medium,2023-08-08
+S00173,HCP,Japan,Neurology,Medium,2021-08-21
+S00174,HCP,Japan,Rheumatology,Low,2022-08-31
+S00175,HCO,United Kingdom,Organization,Low,2021-06-17
+S00176,HCP,India,Infectious Disease,Low,2022-06-30
+S00177,HCP,Canada,Hematology,Low,2023-01-29
+S00178,HCP,Germany,Infectious Disease,Low,2021-08-13
+S00179,HCP,Mexico,Pediatrics,Low,2022-04-01
+S00180,HCP,United States,Neurology,Low,2022-09-16
+S00181,HCP,Italy,Pulmonology,Low,2023-08-04
+S00182,HCP,Canada,Pulmonology,Medium,2023-04-14
+S00183,HCO,United Kingdom,Organization,Low,2023-08-11
+S00184,HCP,India,Nephrology,Low,2023-01-21
+S00185,HCP,Japan,Infectious Disease,Low,2022-04-18
+S00186,HCP,United States,Dermatology,Low,2021-03-21
+S00187,HCP,Italy,Primary Care,Low,2021-08-04
+S00188,HCP,United Kingdom,Rheumatology,,2023-12-31
+S00189,HCP,United Kingdom,Psychiatry,Low,2021-07-19
+S00190,HCP,Brazil,Oncology,Medium,2023-04-23
+S00191,HCP,Mexico,Gastroenterology,,2022-10-06
+S00192,HCP,France,Psychiatry,Low,2021-02-05
+S00193,HCO,Canada,Organization,Low,2021-03-23
+S00194,HCO,Brazil,Organization,Medium,2023-12-24
+S00195,HCP,Brazil,Endocrinology,Low,2021-10-08
+S00196,HCP,United Kingdom,Cardiology,,2023-06-08
+S00197,HCP,United Kingdom,Endocrinology,Medium,2022-11-24
+S00198,HCP,Japan,Cardiology,Medium,2023-08-03
+S00199,HCP,Japan,Neurology,Low,2023-11-09
+S00200,HCP,United States,Hematology,Low,2022-04-14
+S00201,HCP,Germany,Oncology,Medium,2022-05-25
+S00202,HCP,United States,Nephrology,Medium,2023-09-20
+S00203,HCP,Brazil,Dermatology,Low,2023-04-23
+S00204,HCP,India,Nephrology,Medium,2022-08-10
+S00205,HCP,United Kingdom,Ophthalmology,Low,2023-09-25
+S00206,HCO,Canada,Organization,Low,2023-08-02
+S00207,HCP,Canada,Psychiatry,Low,2021-07-02
+S00208,HCP,Italy,Pulmonology,Medium,2021-08-07
+S00209,HCP,France,Gastroenterology,Low,2023-01-29
+S00210,HCP,United States,Psychiatry,Medium,2021-10-02
+S00211,HCP,Brazil,Pulmonology,Medium,2021-05-20
+S00212,HCP,Japan,Dermatology,High,2023-07-25
+S00213,HCP,Canada,Ophthalmology,Low,2021-10-23
+S00214,HCP,Germany,Pediatrics,Low,2022-11-30
+S00215,HCP,Brazil,Oncology,Low,2021-10-08
+S00216,HCP,Brazil,Hematology,Medium,2022-11-27
+S00217,HCP,Brazil,Infectious Disease,Medium,2022-04-02
+S00218,HCO,India,Organization,Low,2021-02-09
+S00219,HCP,Japan,Primary Care,Low,2022-02-13
+S00220,HCP,India,Primary Care,Low,2022-09-29
+S00221,HCP,Germany,Pediatrics,Medium,2021-05-22
+S00222,HCP,Canada,Cardiology,,2022-09-19
+S00223,HCP,Brazil,Nephrology,Medium,2021-02-20
+S00224,HCP,Japan,Infectious Disease,High,2021-12-13
+S00225,HCO,France,Organization,Low,2023-11-25
+S00226,HCO,Japan,Organization,Low,2023-05-17
+S00227,HCP,India,Pediatrics,Low,2022-06-18
+S00228,HCP,France,Psychiatry,Low,2022-10-21
+S00229,HCP,India,Gastroenterology,Low,2023-12-06
+S00230,HCP,Germany,Neurology,Low,2023-05-21
+S00231,HCO,India,Organization,Medium,2021-10-26
+S00232,HCP,United States,Gastroenterology,Low,2023-03-24
+S00233,HCP,United States,Neurology,Medium,2021-08-06
+S00234,HCP,Japan,Nephrology,Low,2021-05-17
+S00235,HCP,Brazil,Ophthalmology,Low,2022-10-06
+S00236,HCP,Japan,Pediatrics,Medium,2021-03-18
+S00237,HCP,Italy,Pulmonology,Medium,2021-10-08
+S00238,HCP,Japan,Dermatology,,2022-03-14
+S00239,HCP,Germany,Oncology,Medium,2022-07-04
+S00240,HCP,France,Psychiatry,Low,2021-01-24
+S00241,HCP,Brazil,Infectious Disease,,2023-12-16
+S00242,HCP,Canada,Endocrinology,Low,2023-07-28
+S00243,HCP,Canada,Ophthalmology,Low,2022-09-12
+S00244,HCP,Germany,Nephrology,High,2021-01-27
+S00245,HCO,Mexico,Organization,Low,2022-08-02
+S00246,HCP,United States,Pulmonology,Medium,2023-09-25
+S00247,HCO,Canada,Organization,Low,2021-02-05
+S00248,HCP,Brazil,Infectious Disease,Low,2023-03-28
+S00249,HCP,United Kingdom,Rheumatology,Low,2022-08-23
+S00250,HCO,Mexico,Organization,,2023-03-06
+S00251,HCP,Italy,Dermatology,High,2023-07-05
+S00252,HCP,India,Psychiatry,Low,2022-05-05
+S00253,HCP,India,Pediatrics,Medium,2022-02-01
+S00254,HCP,France,Cardiology,Low,2021-04-14
+S00255,HCP,Canada,Oncology,High,2023-06-25
+S00256,HCP,Japan,Ophthalmology,Low,2023-04-24
+S00257,HCP,France,Pediatrics,,2021-04-26
+S00258,HCP,Germany,Pulmonology,Low,2021-06-18
+S00259,HCP,India,Hematology,Low,2023-08-27
+S00260,HCP,United Kingdom,Neurology,Medium,2023-12-15
+S00261,HCO,Japan,Organization,Low,2022-06-15
+S00262,HCP,Germany,Pediatrics,High,2022-06-11
+S00263,HCP,Italy,Rheumatology,,2022-02-15
+S00264,HCP,Germany,Psychiatry,Low,2022-04-16
+S00265,HCP,United States,Nephrology,Low,2021-08-31
+S00266,HCP,Mexico,Endocrinology,Low,2021-05-15
+S00267,HCP,India,Nephrology,Low,2023-07-31
+S00268,HCP,France,Hematology,Low,2022-08-30
+S00269,HCP,Italy,Primary Care,Low,2021-11-08
+S00270,HCP,Japan,Infectious Disease,Low,2023-05-01
+S00271,HCO,United States,Organization,Low,2021-02-03
+S00272,HCP,United States,Endocrinology,Low,2021-12-04
+S00273,HCO,Mexico,Organization,Low,2022-07-13
+S00274,HCP,India,Infectious Disease,Medium,2021-06-25
+S00275,HCO,Italy,Organization,High,2022-11-20
+S00276,HCP,Germany,Primary Care,Low,2022-07-26
+S00277,HCO,Brazil,Organization,Low,2021-09-26
+S00278,HCP,India,Primary Care,High,2021-07-13
+S00279,HCO,United States,Organization,Medium,2023-11-27
+S00280,HCP,Brazil,Dermatology,Medium,2022-02-16
+S00281,HCP,Mexico,Dermatology,Medium,2023-12-13
+S00282,HCP,France,Ophthalmology,Medium,2023-02-15
+S00283,HCP,United States,Infectious Disease,Low,2022-08-08
+S00284,HCP,Mexico,Oncology,High,2022-11-28
+S00285,HCP,Mexico,Endocrinology,Low,2022-03-19
+S00286,HCO,United Kingdom,Organization,Low,2021-05-05
+S00287,HCO,United Kingdom,Organization,Medium,2022-09-18
+S00288,HCO,Brazil,Organization,High,2021-09-20
+S00289,HCP,Brazil,Neurology,Medium,2022-01-05
+S00290,HCO,Japan,Organization,Low,2021-08-31
+S00291,HCO,Italy,Organization,Medium,2023-11-12
+S00292,HCO,India,Organization,Medium,2022-06-06
+S00293,HCP,Mexico,Rheumatology,Low,2023-08-05
+S00294,HCP,United Kingdom,Neurology,Medium,2023-02-22
+S00295,HCP,Brazil,Hematology,Medium,2022-06-11
+S00296,HCP,Mexico,Dermatology,Low,2023-03-03
+S00297,HCO,Canada,Organization,Medium,2022-02-19
+S00298,HCP,Canada,Oncology,Medium,2021-09-16
+S00299,HCO,Japan,Organization,Low,2021-01-19
+S00300,HCP,India,Cardiology,High,2021-04-04
+S00301,HCO,Brazil,Organization,Low,2022-10-15
+S00302,HCO,Mexico,Organization,Low,2022-04-29
+S00303,HCP,Japan,Psychiatry,Medium,2021-04-14
+S00304,HCP,United Kingdom,Psychiatry,Medium,2023-04-13
+S00305,HCP,India,Hematology,Low,2021-01-20
+S00306,HCO,India,Organization,Low,2021-04-03
+S00307,HCP,Mexico,Infectious Disease,,2023-12-28
+S00308,HCP,Mexico,Pediatrics,Low,2021-11-19
+S00309,HCP,Mexico,Pulmonology,Low,2021-08-08
+S00310,HCO,Germany,Organization,Medium,2021-04-15
+S00311,HCP,Germany,Pediatrics,Medium,2021-08-01
+S00312,HCP,United States,Neurology,Low,2023-11-16
+S00313,HCP,France,Dermatology,Low,2021-08-18
+S00314,HCP,United Kingdom,Dermatology,Medium,2021-10-01
+S00315,HCP,Italy,Endocrinology,Medium,2021-06-10
+S00316,HCP,Canada,Hematology,,2022-03-17
+S00317,HCP,France,Nephrology,Low,2023-04-08
+S00318,HCP,United States,Neurology,Medium,2022-12-28
+S00319,HCP,Italy,Cardiology,Low,2022-04-06
+S00320,HCP,United States,Rheumatology,Low,2022-03-16
+S00321,HCP,Germany,Nephrology,Low,2023-09-04
+S00322,HCP,Canada,Gastroenterology,Low,2021-09-23
+S00323,HCP,Canada,Nephrology,High,2021-01-15
+S00324,HCP,United Kingdom,Pediatrics,,2021-12-22
+S00325,HCO,United States,Organization,Medium,2023-09-07
+S00326,HCP,India,Infectious Disease,Medium,2021-11-02
+S00327,HCP,Japan,Oncology,Low,2021-03-25
+S00328,HCP,France,Pulmonology,Medium,2021-01-15
+S00329,HCP,Canada,Neurology,Low,2022-04-08
+S00330,HCP,Canada,Infectious Disease,Low,2022-08-07
+S00331,HCP,India,Psychiatry,Low,2021-10-22
+S00332,HCP,United Kingdom,Dermatology,Low,2022-06-21
+S00333,HCP,Italy,Hematology,Low,2022-09-01
+S00334,HCP,India,Neurology,Low,2021-07-19
+S00335,HCP,Brazil,Endocrinology,Medium,2022-01-28
+S00336,HCP,Japan,Hematology,Low,2022-05-31
+S00337,HCP,India,Psychiatry,Low,2021-11-03
+S00338,HCP,France,Primary Care,,2021-08-24
+S00339,HCP,United Kingdom,Oncology,Low,2023-04-30
+S00340,HCO,India,Organization,Medium,2023-08-01
+S00341,HCP,Brazil,Neurology,Low,2021-04-10
+S00342,HCP,United Kingdom,Pediatrics,Low,2022-02-04
+S00343,HCP,Germany,Gastroenterology,Low,2021-01-04
+S00344,HCP,Brazil,Nephrology,Low,2021-01-26
+S00345,HCO,United Kingdom,Organization,Medium,2021-03-29
+S00346,HCP,France,Gastroenterology,Low,2023-09-30
+S00347,HCP,Brazil,Pulmonology,Medium,2021-05-19
+S00348,HCO,Brazil,Organization,Low,2021-03-26
+S00349,HCO,France,Organization,Medium,2022-10-06
+S00350,HCP,India,Psychiatry,Medium,2021-07-04
+S00351,HCP,United States,Gastroenterology,Low,2023-05-29
+S00352,HCP,India,Endocrinology,Low,2022-09-15
+S00353,HCP,Mexico,Primary Care,Medium,2022-10-27
+S00354,HCP,United States,Nephrology,Medium,2023-01-26
+S00355,HCP,Germany,Pediatrics,Low,2022-06-30
+S00356,HCP,Canada,Pulmonology,Low,2023-01-10
+S00357,HCP,United Kingdom,Rheumatology,Low,2023-12-10
+S00358,HCP,Canada,Pediatrics,Low,2022-07-29
+S00359,HCP,Italy,Primary Care,Low,2021-10-22
+S00360,HCP,Italy,Dermatology,Medium,2021-12-01
+S00361,HCP,Brazil,Oncology,Low,2022-10-17
+S00362,HCP,India,Rheumatology,Low,2021-11-24
+S00363,HCP,Italy,Hematology,Medium,2021-03-22
+S00364,HCP,Mexico,Hematology,Medium,2022-08-04
+S00365,HCP,India,Ophthalmology,Low,2021-02-26
+S00366,HCP,Mexico,Primary Care,Low,2021-11-01
+S00367,HCP,India,Rheumatology,Low,2023-01-31
+S00368,HCP,Mexico,Primary Care,Low,2023-04-19
+S00369,HCP,Mexico,Hematology,Low,2022-08-23
+S00370,HCP,India,Gastroenterology,Low,2021-07-20
+S00371,HCP,Brazil,Dermatology,Low,2023-07-26
+S00372,HCP,France,Pediatrics,Low,2021-09-02
+S00373,HCP,United Kingdom,Nephrology,Low,2022-02-11
+S00374,HCP,France,Endocrinology,Low,2022-12-18
+S00375,HCP,France,Nephrology,Medium,2021-05-20
+S00376,HCP,Germany,Nephrology,Medium,2022-02-10
+S00377,HCP,Japan,Nephrology,Medium,2021-01-30
+S00378,HCP,Canada,Primary Care,Low,2023-03-23
+S00379,HCP,Canada,Oncology,Low,2022-12-01
+S00380,HCP,Italy,Primary Care,Low,2023-12-21
+S00381,HCP,United Kingdom,Infectious Disease,Low,2022-08-21
+S00382,HCP,United States,Pulmonology,Low,2021-12-09
+S00383,HCP,Mexico,Gastroenterology,Low,2023-11-28
+S00384,HCP,Canada,Nephrology,Medium,2022-01-05
+S00385,HCP,United States,Nephrology,Medium,2021-09-05
+S00386,HCP,Italy,Infectious Disease,Low,2023-10-04
+S00387,HCP,United States,Nephrology,High,2021-11-17
+S00388,HCO,Mexico,Organization,Low,2022-05-07
+S00389,HCP,France,Psychiatry,Low,2021-05-07
+S00390,HCP,Japan,Primary Care,Low,2021-03-16
+S00391,HCO,Mexico,Organization,Low,2022-11-10
+S00392,HCP,Mexico,Cardiology,Medium,2023-09-09
+S00393,HCP,Mexico,Oncology,Medium,2022-04-25
+S00394,HCP,India,Psychiatry,High,2021-09-28
+S00395,HCO,Canada,Organization,Low,2022-11-15
+S00396,HCP,Canada,Ophthalmology,Low,2022-01-03
+S00397,HCP,India,Psychiatry,High,2021-03-17
+S00398,HCP,India,Pediatrics,Medium,2021-12-02
+S00399,HCP,France,Hematology,High,2022-02-25
+S00400,HCP,United Kingdom,Pediatrics,Low,2022-10-02
+S00401,HCP,Mexico,Pulmonology,Low,2021-06-26
+S00402,HCP,Italy,Nephrology,Low,2023-06-24
+S00403,HCO,Italy,Organization,Low,2021-12-24
+S00404,HCP,Brazil,Oncology,Low,2021-04-29
+S00405,HCP,United Kingdom,Ophthalmology,Low,2021-03-29
+S00406,HCO,United States,Organization,Medium,2023-09-28
+S00407,HCP,Canada,Endocrinology,Low,2022-03-10
+S00408,HCP,Canada,Endocrinology,Medium,2023-11-26
+S00409,HCP,United States,Pediatrics,Medium,2023-03-29
+S00410,HCP,Japan,Nephrology,Medium,2023-05-30
+S00411,HCP,Japan,Dermatology,Low,2021-08-18
+S00412,HCO,Japan,Organization,Low,2021-08-12
+S00413,HCO,Canada,Organization,Low,2023-11-01
+S00414,HCP,Brazil,Gastroenterology,Low,2022-05-16
+S00415,HCP,France,Nephrology,Medium,2022-01-03
+S00416,HCP,Brazil,Infectious Disease,High,2022-12-01
+S00417,HCO,United Kingdom,Organization,Medium,2022-02-02
+S00418,HCO,United Kingdom,Organization,Low,2021-02-23
+S00419,HCP,France,Ophthalmology,Low,2023-07-09
+S00420,HCP,India,Ophthalmology,Low,2022-12-02
+S00421,HCO,Japan,Organization,High,2022-10-14
+S00422,HCP,France,Gastroenterology,Low,2023-10-18
+S00423,HCO,India,Organization,Low,2023-04-12
+S00424,HCP,United States,Oncology,Medium,2022-10-04
+S00425,HCP,Mexico,Endocrinology,Low,2022-01-14
+S00426,HCP,Japan,Endocrinology,Medium,2021-12-28
+S00427,HCP,Japan,Cardiology,High,2021-09-03
+S00428,HCP,United States,Hematology,Low,2023-08-11
+S00429,HCP,Canada,Oncology,Medium,2021-07-31
+S00430,HCP,Italy,Cardiology,Low,2021-01-04
+S00431,HCP,Canada,Oncology,Medium,2022-12-02
+S00432,HCP,Japan,Cardiology,Medium,2021-02-17
+S00433,HCP,Canada,Endocrinology,Low,2021-05-29
+S00434,HCP,United States,Dermatology,Medium,2021-07-25
+S00435,HCP,France,Oncology,Low,2022-06-12
+S00436,HCP,Mexico,Gastroenterology,Low,2021-02-03
+S00437,HCP,United Kingdom,Rheumatology,High,2023-09-15
+S00438,HCP,United States,Neurology,Low,2021-01-31
+S00439,HCP,United States,Oncology,Low,2021-06-11
+S00440,HCP,Germany,Psychiatry,Medium,2022-11-30
+S00441,HCP,France,Gastroenterology,Low,2022-04-08
+S00442,HCP,France,Pediatrics,Low,2021-12-30
+S00443,HCP,Japan,Nephrology,Low,2023-05-12
+S00444,HCP,Japan,Dermatology,Low,2022-03-15
+S00445,HCO,Italy,Organization,Low,2021-12-12
+S00446,HCP,France,Hematology,Low,2022-05-24
+S00447,HCP,Italy,Pediatrics,Low,2021-03-05
+S00448,HCO,Mexico,Organization,Low,2021-05-23
+S00449,HCP,Mexico,Nephrology,Low,2022-08-28
+S00450,HCP,India,Ophthalmology,,2021-07-03
+S00451,HCO,Mexico,Organization,Low,2023-07-16
+S00452,HCP,Japan,Nephrology,Low,2021-05-31
+S00453,HCP,Germany,Oncology,Low,2021-10-29
+S00454,HCP,France,Neurology,Low,2022-04-08
+S00455,HCP,Mexico,Pulmonology,Low,2023-12-04
+S00456,HCP,India,Infectious Disease,Low,2023-01-28
+S00457,HCP,United States,Ophthalmology,Low,2022-08-20
+S00458,HCP,India,Nephrology,High,2022-08-09
+S00459,HCP,Germany,Rheumatology,Low,2023-05-30
+S00460,HCO,France,Organization,Low,2021-01-03
+S00461,HCP,Canada,Infectious Disease,Low,2022-10-14
+S00462,HCP,Germany,Pediatrics,Low,2021-08-09
+S00463,HCO,India,Organization,Low,2023-07-19
+S00464,HCP,France,Neurology,Low,2023-10-03
+S00465,HCP,Germany,Gastroenterology,Low,2022-01-18
+S00466,HCP,Mexico,Dermatology,,2023-11-24
+S00467,HCP,United States,Infectious Disease,Low,2023-07-13
+S00468,HCP,United Kingdom,Nephrology,Low,2022-03-20
+S00469,HCP,Japan,Primary Care,Low,2021-12-09
+S00470,HCP,Japan,Endocrinology,High,2021-01-15
+S00471,HCP,Japan,Psychiatry,Low,2022-09-13
+S00472,HCP,Germany,Hematology,,2022-10-03
+S00473,HCP,Mexico,Gastroenterology,Low,2021-09-25
+S00474,HCO,Brazil,Organization,Medium,2021-07-21
+S00475,HCP,France,Gastroenterology,Low,2021-03-13
+S00476,HCP,Italy,Dermatology,Medium,2022-12-11
+S00477,HCP,United States,Primary Care,Low,2023-01-19
+S00478,HCP,United Kingdom,Ophthalmology,Low,2023-06-26
+S00479,HCP,Brazil,Psychiatry,Medium,2022-08-15
+S00480,HCP,United Kingdom,Rheumatology,Medium,2021-09-30
+S00481,HCP,Germany,Neurology,Medium,2021-06-17
+S00482,HCP,Japan,Gastroenterology,Low,2021-06-12
+S00483,HCP,United Kingdom,Endocrinology,Medium,2023-08-21
+S00484,HCP,France,Ophthalmology,High,2023-11-05
+S00485,HCP,Germany,Pulmonology,Low,2022-02-16
+S00486,HCO,Mexico,Organization,Low,2022-03-01
+S00487,HCO,United Kingdom,Organization,Medium,2023-07-13
+S00488,HCP,Brazil,Gastroenterology,Low,2021-10-09
+S00489,HCP,Brazil,Oncology,Low,2023-10-14
+S00490,HCP,France,Primary Care,Low,2021-07-30
+S00491,HCP,Canada,Primary Care,Low,2023-06-13
+S00492,HCP,Canada,Hematology,Low,2021-11-29
+S00493,HCO,United States,Organization,Medium,2023-11-16
+S00494,HCP,Brazil,Nephrology,Medium,2022-03-17
+S00495,HCP,Canada,Infectious Disease,High,2022-09-18
+S00496,HCP,United Kingdom,Pulmonology,Low,2021-05-06
+S00497,HCP,India,Oncology,Medium,2021-03-02
+S00498,HCP,France,Infectious Disease,Low,2021-12-27
+S00499,HCP,Mexico,Neurology,High,2021-11-09
+S00500,HCP,Mexico,Hematology,Low,2021-05-09
+S00501,HCP,India,Neurology,Low,2023-01-09
+S00502,HCP,Germany,Infectious Disease,Low,2021-05-05
+S00503,HCP,Japan,Oncology,Low,2022-03-05
+S00504,HCO,India,Organization,Low,2022-12-25
+S00505,HCP,France,Ophthalmology,Medium,2021-03-06
+S00506,HCP,Mexico,Endocrinology,Low,2022-02-25
+S00507,HCP,United Kingdom,Ophthalmology,Low,2023-10-04
+S00508,HCP,United States,Rheumatology,Low,2022-02-03
+S00509,HCP,Italy,Neurology,Low,2022-07-11
+S00510,HCP,Brazil,Ophthalmology,Medium,2021-12-31
+S00511,HCP,Japan,Cardiology,Medium,2021-08-16
+S00512,HCP,India,Pulmonology,Medium,2023-11-22
+S00513,HCP,Canada,Rheumatology,Low,2021-12-23
+S00514,HCP,United Kingdom,Gastroenterology,Low,2022-08-18
+S00515,HCP,India,Nephrology,Low,2021-05-18
+S00516,HCP,Canada,Oncology,Low,2021-06-17
+S00517,HCP,Germany,Nephrology,,2022-09-28
+S00518,HCO,United Kingdom,Organization,Medium,2021-12-31
+S00519,HCP,Italy,Rheumatology,Low,2021-12-11
+S00520,HCP,United States,Psychiatry,Low,2021-06-21
+S00521,HCP,Japan,Endocrinology,Medium,2021-07-07
+S00522,HCP,United Kingdom,Ophthalmology,Medium,2022-12-08
+S00523,HCP,France,Primary Care,Medium,2021-08-02
+S00524,HCP,Brazil,Gastroenterology,Medium,2023-04-21
+S00525,HCP,United Kingdom,Primary Care,Low,2022-01-23
+S00526,HCP,Italy,Pediatrics,Low,2022-10-09
+S00527,HCP,India,Nephrology,High,2023-12-23
+S00528,HCP,United States,Pulmonology,,2021-09-30
+S00529,HCP,Canada,Psychiatry,Low,2021-10-26
+S00530,HCP,Japan,Pediatrics,Medium,2021-08-08
+S00531,HCP,India,Pediatrics,Low,2021-03-09
+S00532,HCO,Canada,Organization,Low,2021-03-22
+S00533,HCP,United States,Rheumatology,Low,2022-12-24
+S00534,HCP,Italy,Nephrology,Medium,2021-01-08
+S00535,HCO,Japan,Organization,Medium,2023-08-09
+S00536,HCP,United States,Gastroenterology,Low,2023-05-23
+S00537,HCO,Mexico,Organization,Low,2023-07-09
+S00538,HCP,India,Endocrinology,Low,2021-09-01
+S00539,HCP,United Kingdom,Neurology,Medium,2023-10-31
+S00540,HCP,Brazil,Dermatology,,2021-09-27
+S00541,HCP,Brazil,Dermatology,High,2021-10-29
+S00542,HCP,Brazil,Psychiatry,Low,2022-02-12
+S00543,HCP,Japan,Neurology,Medium,2023-09-19
+S00544,HCP,Brazil,Primary Care,Medium,2022-08-09
+S00545,HCO,India,Organization,Low,2022-12-13
+S00546,HCO,Mexico,Organization,Medium,2022-11-23
+S00547,HCP,Brazil,Psychiatry,Low,2021-10-01
+S00548,HCP,Japan,Psychiatry,Low,2022-08-02
+S00549,HCP,Italy,Pulmonology,High,2022-09-13
+S00550,HCP,Brazil,Primary Care,Medium,2022-01-23
+S00551,HCP,Italy,Pediatrics,High,2021-11-22
+S00552,HCP,Italy,Cardiology,Low,2021-02-19
+S00553,HCP,Mexico,Oncology,Medium,2021-04-10
+S00554,HCP,France,Gastroenterology,,2022-02-24
+S00555,HCP,France,Ophthalmology,High,2022-01-18
+S00556,HCP,Japan,Dermatology,Medium,2023-10-11
+S00557,HCP,Brazil,Pediatrics,Low,2022-10-02
+S00558,HCP,Germany,Dermatology,Low,2024-01-01
+S00559,HCO,United States,Organization,Low,2023-11-12
+S00560,HCO,France,Organization,Low,2022-02-16
+S00561,HCP,India,Endocrinology,High,2022-01-15
+S00562,HCO,Brazil,Organization,Low,2022-10-10
+S00563,HCP,Canada,Ophthalmology,,2021-08-04
+S00564,HCP,Brazil,Pediatrics,Low,2022-09-01
+S00565,HCO,Japan,Organization,Low,2023-11-29
+S00566,HCP,United Kingdom,Dermatology,Medium,2023-09-29
+S00567,HCP,Mexico,Infectious Disease,Medium,2023-08-01
+S00568,HCP,France,Neurology,Medium,2023-04-27
+S00569,HCP,Canada,Dermatology,Low,2022-02-27
+S00570,HCP,India,Gastroenterology,Low,2022-10-21
+S00571,HCP,India,Endocrinology,,2023-09-06
+S00572,HCP,Japan,Dermatology,Low,2021-11-22
+S00573,HCP,India,Nephrology,Low,2023-04-09
+S00574,HCP,Mexico,Psychiatry,Medium,2021-01-19
+S00575,HCP,Brazil,Psychiatry,Low,2023-05-11
+S00576,HCP,Germany,Endocrinology,Low,2022-12-09
+S00577,HCO,United Kingdom,Organization,High,2021-04-17
+S00578,HCP,Brazil,Pediatrics,High,2021-11-30
+S00579,HCP,Brazil,Dermatology,Low,2022-11-27
+S00580,HCP,France,Infectious Disease,Medium,2022-04-18
+S00581,HCP,Canada,Psychiatry,Low,2021-11-26
+S00582,HCP,Japan,Nephrology,Medium,2021-06-27
+S00583,HCP,Italy,Pediatrics,Medium,2021-09-01
+S00584,HCP,Germany,Gastroenterology,Medium,2022-06-03
+S00585,HCO,Germany,Organization,Low,2023-10-19
+S00586,HCO,United Kingdom,Organization,Low,2022-10-24
+S00587,HCP,United Kingdom,Neurology,High,2023-09-21
+S00588,HCP,Japan,Dermatology,Medium,2021-11-29
+S00589,HCP,Japan,Gastroenterology,Low,2021-12-25
+S00590,HCP,United States,Gastroenterology,Low,2021-10-18
+S00591,HCP,Canada,Infectious Disease,Medium,2023-09-26
+S00592,HCP,Brazil,Rheumatology,Low,2021-10-26
+S00593,HCP,United States,Primary Care,Low,2021-08-26
+S00594,HCP,India,Oncology,Low,2022-10-24
+S00595,HCO,United States,Organization,Low,2022-10-12
+S00596,HCP,Japan,Rheumatology,Low,2023-04-28
+S00597,HCP,France,Psychiatry,Medium,2023-07-20
+S00598,HCP,India,Ophthalmology,Low,2021-04-23
+S00599,HCP,India,Pediatrics,,2021-03-18
+S00600,HCP,United Kingdom,Hematology,Low,2022-07-09
+S00601,HCO,France,Organization,Low,2021-12-04
+S00602,HCP,France,Dermatology,Medium,2023-10-13
+S00603,HCO,United States,Organization,Low,2023-08-22
+S00604,HCP,United Kingdom,Rheumatology,Medium,2021-10-27
+S00605,HCP,Italy,Endocrinology,Low,2021-07-16
+S00606,HCP,Germany,Pediatrics,Low,2023-08-17
+S00607,HCP,United States,Oncology,Low,2023-07-02
+S00608,HCP,United States,Pediatrics,Medium,2021-11-08
+S00609,HCP,United States,Cardiology,Low,2021-04-23
+S00610,HCP,Italy,Nephrology,High,2023-10-25
+S00611,HCP,Italy,Pulmonology,Low,2022-07-05
+S00612,HCP,Canada,Primary Care,Medium,2023-11-10
+S00613,HCP,Mexico,Ophthalmology,Low,2023-06-11
+S00614,HCP,United Kingdom,Pulmonology,Low,2023-08-29
+S00615,HCO,United Kingdom,Organization,High,2023-11-20
+S00616,HCP,France,Rheumatology,Medium,2023-09-13
+S00617,HCO,United States,Organization,High,2021-12-02
+S00618,HCP,India,Neurology,Medium,2021-09-06
+S00619,HCP,India,Rheumatology,Low,2023-09-29
+S00620,HCP,United Kingdom,Hematology,Low,2021-07-16
+S00621,HCP,France,Ophthalmology,Low,2023-01-07
+S00622,HCO,India,Organization,Medium,2021-07-16
+S00623,HCP,France,Pulmonology,Low,2023-03-27
+S00624,HCO,Germany,Organization,Medium,2022-03-06
+S00625,HCP,Germany,Hematology,Low,2023-10-01
+S00626,HCP,Brazil,Primary Care,Medium,2022-03-01
+S00627,HCP,Germany,Nephrology,Medium,2023-11-02
+S00628,HCP,United Kingdom,Dermatology,High,2022-04-08
+S00629,HCP,Mexico,Ophthalmology,Low,2021-01-22
+S00630,HCO,Italy,Organization,Low,2021-03-09
+S00631,HCO,Japan,Organization,Medium,2022-05-08
+S00632,HCP,Italy,Dermatology,Medium,2022-02-19
+S00633,HCP,Brazil,Gastroenterology,Medium,2022-07-17
+S00634,HCP,Brazil,Gastroenterology,High,2021-09-16
+S00635,HCP,Japan,Psychiatry,Low,2022-03-28
+S00636,HCO,Mexico,Organization,Low,2023-05-14
+S00637,HCP,India,Hematology,Low,2022-07-27
+S00638,HCP,France,Gastroenterology,High,2023-01-21
+S00639,HCP,Canada,Pulmonology,Low,2021-01-27
+S00640,HCP,Mexico,Primary Care,Medium,2022-07-05
+S00641,HCP,Japan,Pediatrics,Low,2021-10-30
+S00642,HCO,Japan,Organization,Medium,2023-04-28
+S00643,HCP,Japan,Psychiatry,Medium,2023-11-16
+S00644,HCP,France,Gastroenterology,Low,2023-06-02
+S00645,HCO,United Kingdom,Organization,,2023-05-08
+S00646,HCP,United Kingdom,Hematology,Low,2021-01-17
+S00647,HCP,United States,Rheumatology,Low,2023-01-17
+S00648,HCP,Italy,Endocrinology,Low,2023-09-17
+S00649,HCP,United Kingdom,Cardiology,Medium,2021-09-23
+S00650,HCO,Canada,Organization,Medium,2023-11-15
+S00651,HCP,United States,Gastroenterology,Low,2023-01-30
+S00652,HCP,United States,Pulmonology,Low,2021-02-16
+S00653,HCP,Brazil,Hematology,Medium,2021-10-20
+S00654,HCP,India,Ophthalmology,Low,2023-12-25
+S00655,HCP,Germany,Dermatology,Low,2022-04-17
+S00656,HCP,United Kingdom,Neurology,Low,2022-01-13
+S00657,HCP,India,Rheumatology,Low,2023-03-05
+S00658,HCO,Italy,Organization,Low,2022-04-03
+S00659,HCP,Germany,Hematology,Medium,2023-11-07
+S00660,HCP,United States,Rheumatology,Low,2022-01-06
+S00661,HCP,Japan,Cardiology,Medium,2022-07-25
+S00662,HCP,Germany,Rheumatology,Medium,2022-09-15
+S00663,HCP,Mexico,Hematology,,2023-12-05
+S00664,HCO,Japan,Organization,Low,2023-10-16
+S00665,HCP,Canada,Cardiology,High,2023-01-02
+S00666,HCO,Brazil,Organization,Medium,2022-03-07
+S00667,HCP,United States,Hematology,Low,2022-07-25
+S00668,HCP,Italy,Nephrology,Medium,2022-02-02
+S00669,HCO,India,Organization,Low,2021-08-02
+S00670,HCP,Canada,Hematology,Medium,2021-03-07
+S00671,HCP,United Kingdom,Nephrology,Medium,2021-03-11
+S00672,HCP,Germany,Neurology,Low,2021-06-27
+S00673,HCP,India,Oncology,Low,2021-12-13
+S00674,HCO,Canada,Organization,Low,2023-01-04
+S00675,HCP,Mexico,Pulmonology,Medium,2021-10-18
+S00676,HCP,Japan,Neurology,Medium,2021-12-24
+S00677,HCP,India,Pediatrics,Medium,2021-02-27
+S00678,HCP,India,Primary Care,Low,2022-09-04
+S00679,HCP,Italy,Oncology,Low,2023-12-05
+S00680,HCP,India,Pediatrics,Low,2022-01-18
+S00681,HCP,India,Oncology,Low,2021-02-03
+S00682,HCP,Brazil,Nephrology,Low,2023-10-08
+S00683,HCP,France,Rheumatology,Low,2023-08-29
+S00684,HCP,United Kingdom,Oncology,Low,2021-10-12
+S00685,HCP,Mexico,Primary Care,Medium,2022-07-14
+S00686,HCO,Mexico,Organization,Low,2023-08-10
+S00687,HCP,India,Oncology,Medium,2023-12-08
+S00688,HCO,United Kingdom,Organization,,2023-10-27
+S00689,HCP,Canada,Pediatrics,Low,2023-05-14
+S00690,HCP,France,Pulmonology,Low,2023-09-15
+S00691,HCP,Germany,Pulmonology,Low,2023-09-13
+S00692,HCP,Japan,Neurology,Low,2023-05-19
+S00693,HCP,Italy,Infectious Disease,Medium,2023-09-13
+S00694,HCP,Italy,Endocrinology,Low,2023-11-29
+S00695,HCP,India,Primary Care,Low,2022-04-19
+S00696,HCP,Mexico,Rheumatology,Medium,2021-12-15
+S00697,HCP,Canada,Neurology,Medium,2022-05-17
+S00698,HCP,Italy,Endocrinology,,2022-11-03
+S00699,HCP,Mexico,Psychiatry,Medium,2022-04-29
+S00700,HCP,India,Neurology,Low,2022-02-09
+S00701,HCP,India,Ophthalmology,Medium,2023-02-21
+S00702,HCO,Canada,Organization,Low,2021-08-08
+S00703,HCP,United Kingdom,Psychiatry,Low,2022-03-11
+S00704,HCP,Italy,Pulmonology,Medium,2023-03-31
+S00705,HCP,Germany,Nephrology,Medium,2022-04-18
+S00706,HCP,Japan,Pulmonology,Low,2022-08-04
+S00707,HCP,France,Nephrology,Low,2021-09-11
+S00708,HCO,Japan,Organization,Low,2023-01-17
+S00709,HCP,India,Ophthalmology,High,2021-10-01
+S00710,HCP,India,Nephrology,,2021-12-04
+S00711,HCP,United Kingdom,Ophthalmology,Low,2021-07-17
+S00712,HCP,Italy,Neurology,Low,2023-05-04
+S00713,HCP,Canada,Pediatrics,Medium,2022-07-08
+S00714,HCO,India,Organization,Low,2021-02-02
+S00715,HCP,India,Oncology,Low,2023-05-18
+S00716,HCP,United Kingdom,Gastroenterology,Medium,2022-07-03
+S00717,HCP,Canada,Neurology,Low,2021-06-26
+S00718,HCP,Canada,Endocrinology,Low,2023-12-27
+S00719,HCP,United States,Pulmonology,Low,2022-09-21
+S00720,HCP,Germany,Psychiatry,Low,2023-10-19
+S00721,HCP,Brazil,Nephrology,Low,2023-12-29
+S00722,HCP,Germany,Oncology,Low,2022-03-27
+S00723,HCP,Japan,Pulmonology,Low,2023-09-06
+S00724,HCP,Germany,Neurology,Medium,2021-08-04
+S00725,HCO,France,Organization,Medium,2022-08-16
+S00726,HCP,United Kingdom,Endocrinology,Low,2021-05-30
+S00727,HCO,India,Organization,Low,2022-06-07
+S00728,HCP,India,Endocrinology,Medium,2023-06-22
+S00729,HCP,India,Psychiatry,Medium,2021-09-07
+S00730,HCP,Italy,Rheumatology,Low,2022-01-17
+S00731,HCP,Italy,Nephrology,Medium,2021-02-16
+S00732,HCP,Germany,Nephrology,High,2023-07-13
+S00733,HCP,France,Dermatology,Low,2023-02-10
+S00734,HCP,Italy,Infectious Disease,Low,2021-09-18
+S00735,HCP,Mexico,Primary Care,Low,2022-01-08
+S00736,HCP,Germany,Hematology,Low,2023-05-22
+S00737,HCP,France,Psychiatry,Medium,2022-07-19
+S00738,HCP,Canada,Pediatrics,Low,2023-09-11
+S00739,HCP,Germany,Oncology,Low,2023-08-15
+S00740,HCP,France,Rheumatology,Medium,2022-06-22
+S00741,HCP,Canada,Endocrinology,Low,2024-01-01
+S00742,HCP,United Kingdom,Pediatrics,High,2023-10-04
+S00743,HCP,France,Infectious Disease,Low,2022-03-19
+S00744,HCP,France,Infectious Disease,Medium,2023-02-16
+S00745,HCO,Mexico,Organization,Low,2023-08-16
+S00746,HCP,Italy,Gastroenterology,Low,2021-09-09
+S00747,HCP,Japan,Infectious Disease,Low,2023-04-18
+S00748,HCP,Japan,Oncology,Medium,2021-07-14
+S00749,HCP,Italy,Pulmonology,Low,2022-02-11
+S00750,HCP,Japan,Infectious Disease,Medium,2023-12-23
+S00751,HCP,Japan,Oncology,Medium,2023-04-16
+S00752,HCP,Brazil,Hematology,,2023-07-14
+S00753,HCP,United Kingdom,Cardiology,Medium,2021-07-18
+S00754,HCP,Japan,Rheumatology,Low,2023-12-20
+S00755,HCP,Italy,Cardiology,Low,2023-02-15
+S00756,HCO,Mexico,Organization,Low,2023-02-07
+S00757,HCP,Germany,Dermatology,Low,2021-11-08
+S00758,HCP,Canada,Hematology,Medium,2021-11-16
+S00759,HCP,India,Endocrinology,Medium,2021-07-05
+S00760,HCP,Italy,Primary Care,Low,2023-02-18
+S00761,HCP,Brazil,Endocrinology,Low,2023-05-11
+S00762,HCP,Brazil,Pulmonology,,2023-02-02
+S00763,HCO,United Kingdom,Organization,Medium,2022-12-22
+S00764,HCP,Germany,Nephrology,Medium,2022-05-24
+S00765,HCO,United States,Organization,High,2022-08-07
+S00766,HCP,France,Endocrinology,Low,2021-06-28
+S00767,HCP,Mexico,Nephrology,Medium,2021-08-12
+S00768,HCP,India,Primary Care,Medium,2023-04-07
+S00769,HCP,India,Oncology,Medium,2021-10-26
+S00770,HCP,Germany,Psychiatry,Low,2022-01-07
+S00771,HCP,Mexico,Infectious Disease,Low,2023-12-28
+S00772,HCO,United States,Organization,Medium,2021-09-03
+S00773,HCP,India,Infectious Disease,Medium,2023-10-16
+S00774,HCO,Mexico,Organization,Medium,2022-06-07
+S00775,HCP,India,Rheumatology,Medium,2023-08-23
+S00776,HCP,Japan,Hematology,Low,2022-05-11
+S00777,HCP,United Kingdom,Primary Care,High,2021-01-31
+S00778,HCO,Mexico,Organization,Medium,2023-10-05
+S00779,HCP,United States,Nephrology,Medium,2022-11-26
+S00780,HCP,United States,Hematology,Low,2023-03-12
+S00781,HCP,Japan,Rheumatology,Low,2022-04-26
+S00782,HCO,France,Organization,Low,2021-10-24
+S00783,HCP,Brazil,Neurology,Low,2022-11-06
+S00784,HCP,Mexico,Pediatrics,Low,2021-02-19
+S00785,HCP,India,Psychiatry,Medium,2022-06-06
+S00786,HCP,Italy,Oncology,Medium,2023-08-12
+S00787,HCP,United States,Oncology,Low,2021-04-14
+S00788,HCP,Italy,Infectious Disease,Low,2022-03-08
+S00789,HCP,Mexico,Hematology,Low,2023-08-10
+S00790,HCP,Japan,Dermatology,Low,2021-03-31
+S00791,HCP,Germany,Neurology,High,2022-08-17
+S00792,HCP,France,Hematology,Medium,2021-10-03
+S00793,HCP,France,Pediatrics,Low,2023-09-20
+S00794,HCP,United Kingdom,Primary Care,Medium,2021-02-03
+S00795,HCP,Japan,Dermatology,Medium,2023-06-18
+S00796,HCO,France,Organization,Medium,2022-06-02
+S00797,HCO,Japan,Organization,Low,2022-12-07
+S00798,HCP,Germany,Oncology,Medium,2022-06-27
+S00799,HCP,India,Rheumatology,Low,2021-02-27
+S00800,HCP,France,Pediatrics,Low,2022-09-11
+S00801,HCP,United Kingdom,Psychiatry,Medium,2021-06-23
+S00802,HCP,United States,Pediatrics,High,2022-11-08
+S00803,HCP,Italy,Gastroenterology,Low,2023-07-29
+S00804,HCP,India,Cardiology,Medium,2022-07-01
+S00805,HCP,Italy,Oncology,Low,2021-03-17
+S00806,HCP,Canada,Ophthalmology,,2021-04-10
+S00807,HCO,Mexico,Organization,Low,2021-05-26
+S00808,HCP,Canada,Gastroenterology,Medium,2023-03-19
+S00809,HCO,Japan,Organization,Medium,2023-06-20
+S00810,HCP,United States,Cardiology,Low,2022-05-14
+S00811,HCO,United States,Organization,High,2022-08-03
+S00812,HCP,India,Pediatrics,Medium,2021-08-20
+S00813,HCP,India,Rheumatology,Low,2021-10-18
+S00814,HCP,United Kingdom,Endocrinology,Low,2021-10-09
+S00815,HCP,Brazil,Ophthalmology,Low,2023-05-19
+S00816,HCP,France,Rheumatology,Medium,2023-05-31
+S00817,HCP,Germany,Rheumatology,Medium,2021-05-29
+S00818,HCP,Italy,Oncology,High,2023-12-18
+S00819,HCP,Germany,Primary Care,Low,2023-11-16
+S00820,HCP,France,Psychiatry,Low,2023-02-12
+S00821,HCP,United States,Neurology,Low,2021-09-10
+S00822,HCP,Brazil,Endocrinology,Medium,2023-08-25
+S00823,HCP,Brazil,Oncology,Medium,2023-09-29
+S00824,HCP,United States,Rheumatology,Low,2022-04-15
+S00825,HCP,Germany,Primary Care,Medium,2021-12-08
+S00826,HCP,Japan,Neurology,Low,2021-10-30
+S00827,HCP,Canada,Endocrinology,Low,2023-10-25
+S00828,HCO,Germany,Organization,Medium,2023-12-22
+S00829,HCP,Germany,Gastroenterology,Low,2021-08-13
+S00830,HCP,United States,Infectious Disease,Low,2022-07-01
+S00831,HCP,France,Hematology,Low,2022-01-20
+S00832,HCP,India,Dermatology,Low,2023-12-10
+S00833,HCP,Mexico,Oncology,Medium,2021-10-09
+S00834,HCP,Germany,Ophthalmology,Low,2023-01-21
+S00835,HCP,Italy,Cardiology,,2023-03-06
+S00836,HCO,Germany,Organization,High,2023-01-04
+S00837,HCP,Brazil,Gastroenterology,Low,2022-12-02
+S00838,HCP,Mexico,Primary Care,Medium,2023-05-29
+S00839,HCP,Canada,Neurology,Medium,2023-08-14
+S00840,HCO,Japan,Organization,Medium,2021-05-19
+S00841,HCP,United Kingdom,Dermatology,Low,2021-04-22
+S00842,HCP,India,Gastroenterology,Low,2021-04-14
+S00843,HCO,United States,Organization,Low,2021-09-26
+S00844,HCP,India,Psychiatry,Low,2022-02-18
+S00845,HCP,Italy,Dermatology,Low,2021-04-03
+S00846,HCO,United States,Organization,Low,2023-01-11
+S00847,HCP,Brazil,Ophthalmology,Low,2021-03-30
+S00848,HCP,United Kingdom,Ophthalmology,Low,2021-07-28
+S00849,HCP,Germany,Gastroenterology,Low,2023-08-28
+S00850,HCP,India,Primary Care,Low,2021-03-29
+S00851,HCP,France,Pulmonology,High,2022-05-08
+S00852,HCP,India,Psychiatry,Low,2021-03-24
+S00853,HCP,Japan,Oncology,High,2023-11-12
+S00854,HCP,France,Primary Care,Low,2021-02-13
+S00855,HCP,Germany,Infectious Disease,Low,2021-11-14
+S00856,HCP,Germany,Nephrology,Low,2021-10-10
+S00857,HCP,Brazil,Hematology,Low,2022-11-08
+S00858,HCP,France,Pulmonology,Medium,2021-04-24
+S00859,HCP,Canada,Hematology,High,2021-09-29
+S00860,HCP,France,Dermatology,,2021-03-13
+S00861,HCP,India,Pediatrics,Low,2022-06-14
+S00862,HCP,France,Rheumatology,High,2022-12-27
+S00863,HCP,United Kingdom,Dermatology,Low,2021-06-10
+S00864,HCP,Germany,Endocrinology,Low,2022-03-12
+S00865,HCP,United States,Dermatology,Low,2021-05-08
+S00866,HCP,India,Pediatrics,High,2023-06-14
+S00867,HCP,Germany,Pulmonology,High,2023-02-23
+S00868,HCP,Germany,Oncology,Low,2023-09-07
+S00869,HCP,Japan,Oncology,High,2021-06-09
+S00870,HCP,Mexico,Infectious Disease,Low,2022-06-06
+S00871,HCP,Canada,Psychiatry,Low,2023-05-03
+S00872,HCP,United States,Rheumatology,Low,2022-07-14
+S00873,HCO,Italy,Organization,Low,2023-10-19
+S00874,HCO,Japan,Organization,Low,2022-12-12
+S00875,HCP,Canada,Pediatrics,Low,2022-09-14
+S00876,HCO,India,Organization,Low,2022-11-10
+S00877,HCP,Germany,Endocrinology,Low,2023-01-20
+S00878,HCP,United Kingdom,Nephrology,Low,2022-04-02
+S00879,HCO,United States,Organization,Medium,2021-06-07
+S00880,HCP,Mexico,Nephrology,Low,2021-05-22
+S00881,HCP,Canada,Rheumatology,Low,2021-08-09
+S00882,HCP,United States,Dermatology,Low,2021-11-30
+S00883,HCP,Brazil,Infectious Disease,Low,2022-03-09
+S00884,HCO,Canada,Organization,,2023-12-08
+S00885,HCP,Germany,Dermatology,Low,2022-01-22
+S00886,HCP,United States,Dermatology,Medium,2023-07-09
+S00887,HCP,India,Hematology,,2023-03-23
+S00888,HCP,France,Primary Care,Low,2023-10-31
+S00889,HCO,Mexico,Organization,Low,2021-04-04
+S00890,HCO,Mexico,Organization,Medium,2022-03-11
+S00891,HCO,Canada,Organization,Medium,2022-03-07
+S00892,HCP,Japan,Endocrinology,Low,2023-07-30
+S00893,HCP,Germany,Primary Care,Low,2021-01-24
+S00894,HCP,United Kingdom,Neurology,High,2021-05-10
+S00895,HCP,Italy,Neurology,Medium,2021-09-05
+S00896,HCP,Mexico,Endocrinology,Medium,2022-02-12
+S00897,HCP,France,Hematology,Low,2023-08-07
+S00898,HCO,Mexico,Organization,Low,2023-01-25
+S00899,HCP,India,Neurology,Low,2022-09-13
+S00900,HCO,France,Organization,Medium,2021-01-10
+S00901,HCP,India,Infectious Disease,Medium,2022-06-20
+S00902,HCP,France,Gastroenterology,Medium,2023-02-09
+S00903,HCP,Canada,Dermatology,Medium,2021-04-17
+S00904,HCP,France,Psychiatry,Medium,2023-06-01
+S00905,HCP,France,Cardiology,High,2022-10-24
+S00906,HCP,Canada,Nephrology,,2021-05-25
+S00907,HCP,United States,Neurology,High,2022-01-09
+S00908,HCP,Canada,Primary Care,Low,2023-12-01
+S00909,HCP,Japan,Psychiatry,Low,2022-03-03
+S00910,HCO,Mexico,Organization,Low,2023-03-23
+S00911,HCP,Germany,Pediatrics,Medium,2022-10-30
+S00912,HCP,Mexico,Pulmonology,Low,2023-03-22
+S00913,HCP,India,Nephrology,Low,2021-02-23
+S00914,HCP,Brazil,Infectious Disease,Medium,2023-12-15
+S00915,HCO,France,Organization,Low,2021-11-24
+S00916,HCP,India,Rheumatology,Low,2022-05-22
+S00917,HCP,Japan,Primary Care,Medium,2021-03-28
+S00918,HCP,Italy,Oncology,Medium,2023-06-22
+S00919,HCP,United States,Neurology,Low,2022-08-18
+S00920,HCP,Germany,Endocrinology,High,2021-04-19
+S00921,HCP,France,Gastroenterology,High,2023-09-10
+S00922,HCP,Germany,Primary Care,High,2021-05-30
+S00923,HCP,United States,Pediatrics,Low,2021-09-23
+S00924,HCP,India,Oncology,Low,2021-06-21
+S00925,HCP,Italy,Gastroenterology,Medium,2023-11-08
+S00926,HCP,United Kingdom,Pulmonology,Low,2021-10-24
+S00927,HCP,Germany,Primary Care,Low,2021-11-15
+S00928,HCP,Japan,Neurology,Low,2023-07-24
+S00929,HCP,Germany,Pediatrics,Medium,2023-10-07
+S00930,HCP,United Kingdom,Cardiology,Low,2023-11-08
+S00931,HCO,Brazil,Organization,Low,2021-03-06
+S00932,HCP,Germany,Rheumatology,Low,2021-09-21
+S00933,HCP,Brazil,Gastroenterology,Low,2023-02-23
+S00934,HCO,Mexico,Organization,Low,2021-12-04
+S00935,HCP,Japan,Infectious Disease,Low,2022-10-16
+S00936,HCP,Italy,Primary Care,Low,2023-02-08
+S00937,HCP,Germany,Neurology,Medium,2021-01-19
+S00938,HCO,India,Organization,Medium,2021-12-02
+S00939,HCP,United Kingdom,Rheumatology,Medium,2022-06-02
+S00940,HCO,India,Organization,Medium,2021-01-22
+S00941,HCP,Japan,Dermatology,Low,2021-03-31
+S00942,HCP,Germany,Hematology,Medium,2023-09-28
+S00943,HCP,United Kingdom,Gastroenterology,Medium,2021-10-10
+S00944,HCP,Canada,Nephrology,Low,2022-08-29
+S00945,HCO,France,Organization,Medium,2022-10-07
+S00946,HCP,France,Oncology,,2023-07-21
+S00947,HCP,India,Hematology,Medium,2023-07-04
+S00948,HCP,Germany,Ophthalmology,Medium,2022-09-20
+S00949,HCP,Germany,Gastroenterology,Low,2021-07-06
+S00950,HCO,Mexico,Organization,Low,2021-12-28
+S00951,HCP,United States,Primary Care,Medium,2021-10-01
+S00952,HCP,India,Endocrinology,Low,2021-06-02
+S00953,HCP,Canada,Oncology,High,2023-12-26
+S00954,HCP,Canada,Nephrology,Low,2023-02-06
+S00955,HCO,United Kingdom,Organization,High,2021-11-18
+S00956,HCP,Brazil,Infectious Disease,Medium,2023-08-04
+S00957,HCP,Japan,Pulmonology,Low,2023-08-08
+S00958,HCP,Canada,Psychiatry,Low,2021-07-01
+S00959,HCO,India,Organization,Low,2022-02-01
+S00960,HCP,Germany,Infectious Disease,High,2023-10-12
+S00961,HCP,Mexico,Hematology,Medium,2022-08-06
+S00962,HCP,Brazil,Infectious Disease,High,2021-10-09
+S00963,HCO,Germany,Organization,Low,2022-01-23
+S00964,HCO,Brazil,Organization,Low,2021-12-17
+S00965,HCP,Mexico,Rheumatology,Medium,2021-03-15
+S00966,HCP,Japan,Dermatology,High,2022-01-25
+S00967,HCP,India,Nephrology,Low,2022-09-18
+S00968,HCP,Mexico,Gastroenterology,Medium,2022-12-02
+S00969,HCP,Germany,Gastroenterology,Low,2023-04-16
+S00970,HCO,United Kingdom,Organization,Low,2021-10-19
+S00971,HCO,Italy,Organization,Low,2021-06-12
+S00972,HCP,United States,Infectious Disease,Low,2021-07-11
+S00973,HCP,Mexico,Pulmonology,Low,2021-01-20
+S00974,HCP,Japan,Pediatrics,High,2021-06-06
+S00975,HCP,United States,Infectious Disease,Medium,2021-08-31
+S00976,HCO,France,Organization,Low,2022-05-19
+S00977,HCP,United Kingdom,Endocrinology,Medium,2022-01-18
+S00978,HCP,Brazil,Psychiatry,Low,2022-04-10
+S00979,HCP,United States,Endocrinology,High,2023-11-04
+S00980,HCO,Italy,Organization,Medium,2023-08-27
+S00981,HCP,Italy,Rheumatology,Low,2021-12-27
+S00982,HCP,France,Endocrinology,Medium,2022-01-11
+S00983,HCP,Canada,Dermatology,Low,2022-07-25
+S00984,HCP,Brazil,Psychiatry,Medium,2022-07-30
+S00985,HCO,India,Organization,High,2022-06-29
+S00986,HCP,Japan,Infectious Disease,Low,2023-05-10
+S00987,HCP,United Kingdom,Rheumatology,Medium,2022-08-26
+S00988,HCP,United States,Pediatrics,,2023-12-29
+S00989,HCP,Mexico,Primary Care,Medium,2022-03-07
+S00990,HCP,Brazil,Infectious Disease,Low,2022-10-17
+S00991,HCP,United Kingdom,Hematology,Low,2023-12-04
+S00992,HCP,Brazil,Gastroenterology,Medium,2022-05-02
+S00993,HCP,United States,Nephrology,Medium,2021-10-19
+S00994,HCP,India,Pediatrics,Low,2023-10-19
+S00995,HCP,United States,Pulmonology,Low,2021-09-16
+S00996,HCP,India,Psychiatry,Low,2023-08-27
+S00997,HCP,Canada,Neurology,Medium,2023-11-21
+S00998,HCP,Italy,Pediatrics,Medium,2023-11-22
+S00999,HCP,Mexico,Hematology,Low,2021-06-12
+S01000,HCP,United Kingdom,Oncology,Low,2023-11-29
+S01001,HCP,Brazil,Gastroenterology,Medium,2021-02-25
+S01002,HCO,France,Organization,High,2021-04-09
+S01003,HCP,Germany,Dermatology,Medium,2022-05-24
+S01004,HCP,Brazil,Ophthalmology,Low,2023-01-25
+S01005,HCP,Brazil,Infectious Disease,High,2023-12-06
+S01006,HCP,Japan,Pediatrics,Medium,2022-03-27
+S01007,HCP,Canada,Ophthalmology,Low,2022-01-01
+S01008,HCO,Germany,Organization,Low,2023-07-18
+S01009,HCP,Brazil,Hematology,High,2022-05-02
+S01010,HCO,France,Organization,Low,2023-04-09
+S01011,HCO,India,Organization,,2021-10-03
+S01012,HCP,France,Psychiatry,Low,2022-10-04
+S01013,HCP,Germany,Pediatrics,,2021-07-10
+S01014,HCP,Mexico,Cardiology,Low,2021-06-24
+S01015,HCP,Italy,Endocrinology,Medium,2021-04-26
+S01016,HCP,France,Nephrology,Medium,2022-01-30
+S01017,HCP,France,Pediatrics,Low,2022-04-08
+S01018,HCO,India,Organization,Low,2023-08-25
+S01019,HCP,United States,Psychiatry,Low,2021-03-18
+S01020,HCO,United States,Organization,Medium,2021-10-05
+S01021,HCP,United Kingdom,Pediatrics,Low,2022-02-08
+S01022,HCP,Italy,Ophthalmology,Low,2021-10-30
+S01023,HCP,France,Gastroenterology,Medium,2023-12-04
+S01024,HCP,France,Cardiology,Low,2023-08-06
+S01025,HCP,Brazil,Gastroenterology,Medium,2023-12-22
+S01026,HCP,Mexico,Pediatrics,,2022-02-25
+S01027,HCO,Mexico,Organization,Low,2023-06-29
+S01028,HCP,Italy,Ophthalmology,High,2021-10-17
+S01029,HCP,India,Dermatology,Medium,2021-12-19
+S01030,HCP,France,Cardiology,Medium,2023-09-26
+S01031,HCP,France,Psychiatry,Medium,2023-11-08
+S01032,HCP,United States,Pediatrics,Low,2022-04-19
+S01033,HCP,United Kingdom,Primary Care,,2022-03-09
+S01034,HCP,Germany,Cardiology,Low,2021-12-05
+S01035,HCP,Germany,Rheumatology,Low,2022-11-22
+S01036,HCP,Brazil,Endocrinology,Low,2023-10-25
+S01037,HCP,United States,Pediatrics,Low,2021-12-12
+S01038,HCP,United Kingdom,Primary Care,Medium,2021-05-19
+S01039,HCP,India,Oncology,Low,2023-01-02
+S01040,HCP,Canada,Oncology,Medium,2022-09-07
+S01041,HCP,Japan,Dermatology,Medium,2023-06-15
+S01042,HCO,United Kingdom,Organization,Low,2023-08-01
+S01043,HCP,India,Cardiology,Low,2023-10-21
+S01044,HCP,Italy,Infectious Disease,Low,2022-01-19
+S01045,HCP,France,Oncology,High,2023-03-12
+S01046,HCP,Canada,Endocrinology,High,2021-02-25
+S01047,HCP,United Kingdom,Psychiatry,Low,2023-11-02
+S01048,HCP,Brazil,Infectious Disease,,2021-06-07
+S01049,HCP,Brazil,Cardiology,Low,2023-11-21
+S01050,HCO,France,Organization,High,2023-12-08
+S01051,HCP,Germany,Neurology,Low,2021-02-03
+S01052,HCP,Germany,Nephrology,High,2023-08-24
+S01053,HCO,United States,Organization,Medium,2023-09-16
+S01054,HCP,France,Ophthalmology,Low,2023-07-14
+S01055,HCP,Canada,Psychiatry,Low,2023-09-22
+S01056,HCP,Mexico,Rheumatology,Low,2021-08-19
+S01057,HCP,Japan,Rheumatology,Medium,2022-07-27
+S01058,HCP,Germany,Pediatrics,High,2023-04-02
+S01059,HCP,France,Psychiatry,Medium,2021-01-29
+S01060,HCP,France,Ophthalmology,Medium,2021-10-07
+S01061,HCP,Canada,Endocrinology,Medium,2021-05-20
+S01062,HCP,Mexico,Hematology,Medium,2021-02-25
+S01063,HCP,France,Infectious Disease,Low,2023-02-06
+S01064,HCP,India,Oncology,Low,2023-12-21
+S01065,HCP,Mexico,Hematology,Medium,2023-05-31
+S01066,HCP,Canada,Dermatology,,2023-01-28
+S01067,HCP,Mexico,Psychiatry,Medium,2022-03-12
+S01068,HCP,Germany,Psychiatry,Low,2022-12-24
+S01069,HCP,Mexico,Pediatrics,Low,2021-05-01
+S01070,HCO,United Kingdom,Organization,Medium,2022-01-22
+S01071,HCP,United States,Endocrinology,Low,2022-09-23
+S01072,HCO,Japan,Organization,High,2022-08-31
+S01073,HCP,Germany,Neurology,Low,2023-11-16
+S01074,HCP,Brazil,Dermatology,Medium,2021-11-15
+S01075,HCP,India,Dermatology,Low,2021-02-26
+S01076,HCP,Japan,Infectious Disease,Low,2022-01-21
+S01077,HCP,Japan,Oncology,,2022-11-27
+S01078,HCP,United States,Rheumatology,Low,2021-04-26
+S01079,HCP,United Kingdom,Oncology,Medium,2023-04-27
+S01080,HCP,Canada,Ophthalmology,Low,2022-12-07
+S01081,HCP,Italy,Infectious Disease,,2023-02-01
+S01082,HCP,Mexico,Hematology,Low,2022-04-13
+S01083,HCP,Japan,Nephrology,Medium,2023-08-18
+S01084,HCP,Japan,Neurology,Medium,2021-08-02
+S01085,HCP,Germany,Pediatrics,Low,2022-02-13
+S01086,HCP,Mexico,Pediatrics,,2021-09-27
+S01087,HCP,Brazil,Neurology,Medium,2022-01-05
+S01088,HCO,United States,Organization,Low,2022-05-18
+S01089,HCP,India,Primary Care,Low,2021-04-17
+S01090,HCO,Canada,Organization,Low,2022-12-26
+S01091,HCP,Japan,Dermatology,Medium,2021-06-11
+S01092,HCP,Germany,Cardiology,High,2021-04-12
+S01093,HCP,Germany,Ophthalmology,Low,2022-11-26
+S01094,HCO,Canada,Organization,Low,2022-04-27
+S01095,HCP,Japan,Psychiatry,Low,2021-04-12
+S01096,HCP,India,Infectious Disease,High,2022-04-22
+S01097,HCP,France,Endocrinology,Medium,2023-06-28
+S01098,HCP,France,Pediatrics,Medium,2023-08-24
+S01099,HCP,Mexico,Rheumatology,Low,2021-10-19
+S01100,HCO,Canada,Organization,Medium,2021-06-10
+S01101,HCP,Brazil,Neurology,,2021-04-21
+S01102,HCP,Japan,Endocrinology,Low,2023-07-03
+S01103,HCP,United Kingdom,Psychiatry,Low,2021-04-24
+S01104,HCP,Mexico,Ophthalmology,Medium,2023-01-03
+S01105,HCP,Italy,Primary Care,Medium,2023-11-24
+S01106,HCO,Mexico,Organization,Low,2022-08-23
+S01107,HCP,France,Psychiatry,Medium,2021-04-25
+S01108,HCP,Germany,Gastroenterology,Low,2021-06-25
+S01109,HCO,Canada,Organization,Medium,2022-01-10
+S01110,HCP,United Kingdom,Hematology,Low,2023-12-17
+S01111,HCP,United States,Cardiology,Low,2022-08-27
+S01112,HCP,United States,Dermatology,Low,2021-07-22
+S01113,HCO,France,Organization,Medium,2023-02-25
+S01114,HCP,France,Psychiatry,Medium,2021-12-24
+S01115,HCP,Italy,Cardiology,Low,2022-07-05
+S01116,HCP,Japan,Hematology,Medium,2022-11-14
+S01117,HCO,United Kingdom,Organization,Medium,2023-04-26
+S01118,HCP,United Kingdom,Gastroenterology,Medium,2021-12-04
+S01119,HCP,Brazil,Cardiology,High,2021-02-03
+S01120,HCP,India,Nephrology,,2021-10-10
+S01121,HCO,Mexico,Organization,Low,2023-12-04
+S01122,HCP,Brazil,Hematology,Medium,2021-05-19
+S01123,HCP,Japan,Ophthalmology,Medium,2022-09-12
+S01124,HCP,Mexico,Gastroenterology,Medium,2023-02-18
+S01125,HCP,Italy,Dermatology,Low,2023-05-02
+S01126,HCO,France,Organization,Low,2021-12-15
+S01127,HCP,France,Oncology,Low,2022-02-04
+S01128,HCP,India,Pulmonology,Low,2023-04-05
+S01129,HCP,Canada,Cardiology,Low,2022-12-21
+S01130,HCP,France,Ophthalmology,Low,2023-04-11
+S01131,HCP,United States,Pediatrics,Medium,2021-06-20
+S01132,HCP,Brazil,Primary Care,Medium,2021-06-25
+S01133,HCP,Germany,Neurology,Low,2023-01-27
+S01134,HCP,France,Nephrology,Low,2022-12-09
+S01135,HCP,India,Rheumatology,Low,2022-06-04
+S01136,HCO,Italy,Organization,Medium,2023-12-30
+S01137,HCP,Mexico,Dermatology,,2022-12-22
+S01138,HCP,Canada,Gastroenterology,Medium,2023-02-12
+S01139,HCP,United States,Neurology,Low,2023-08-09
+S01140,HCO,Canada,Organization,Low,2023-03-15
+S01141,HCP,United States,Neurology,Low,2022-10-27
+S01142,HCP,Germany,Gastroenterology,Medium,2022-01-27
+S01143,HCO,Canada,Organization,Medium,2021-05-28
+S01144,HCP,Mexico,Gastroenterology,Low,2022-05-27
+S01145,HCP,United States,Pediatrics,Low,2022-11-29
+S01146,HCP,United Kingdom,Oncology,Low,2021-10-07
+S01147,HCP,United Kingdom,Pediatrics,Low,2021-05-13
+S01148,HCO,Italy,Organization,Low,2023-06-29
+S01149,HCP,Germany,Hematology,Medium,2023-11-02
+S01150,HCP,India,Oncology,Medium,2021-06-07
+S01151,HCP,France,Psychiatry,Low,2022-01-22
+S01152,HCP,Germany,Endocrinology,Medium,2021-10-17
+S01153,HCP,United Kingdom,Hematology,Low,2023-12-22
+S01154,HCP,Brazil,Infectious Disease,Medium,2021-01-11
+S01155,HCP,India,Rheumatology,Medium,2023-05-21
+S01156,HCP,United Kingdom,Psychiatry,Medium,2022-06-17
+S01157,HCP,Canada,Hematology,Low,2021-11-21
+S01158,HCP,United Kingdom,Nephrology,Medium,2021-07-31
+S01159,HCP,Canada,Nephrology,High,2023-05-21
+S01160,HCP,India,Pediatrics,Low,2021-09-29
+S01161,HCP,France,Endocrinology,Medium,2023-05-29
+S01162,HCP,United Kingdom,Pediatrics,Low,2021-06-09
+S01163,HCO,Mexico,Organization,Low,2021-12-10
+S01164,HCP,France,Cardiology,Low,2022-08-14
+S01165,HCP,Canada,Gastroenterology,High,2023-04-18
+S01166,HCP,Brazil,Psychiatry,High,2023-11-09
+S01167,HCP,Mexico,Ophthalmology,Medium,2021-01-26
+S01168,HCP,United Kingdom,Endocrinology,Low,2022-01-05
+S01169,HCP,Brazil,Endocrinology,Medium,2022-02-12
+S01170,HCO,Canada,Organization,High,2021-02-22
+S01171,HCP,United Kingdom,Gastroenterology,Low,2022-11-09
+S01172,HCP,Germany,Dermatology,Medium,2022-02-11
+S01173,HCO,Japan,Organization,Low,2021-09-04
+S01174,HCP,Italy,Primary Care,Low,2023-11-01
+S01175,HCP,Italy,Infectious Disease,Low,2023-05-31
+S01176,HCP,Brazil,Endocrinology,Medium,2023-12-30
+S01177,HCP,Mexico,Rheumatology,Low,2023-07-26
+S01178,HCP,Mexico,Dermatology,Medium,2021-11-12
+S01179,HCP,India,Neurology,Low,2021-07-23
+S01180,HCO,Mexico,Organization,Low,2023-02-07
+S01181,HCP,Mexico,Infectious Disease,Medium,2022-06-01
+S01182,HCP,France,Oncology,Medium,2021-05-25
+S01183,HCO,France,Organization,Low,2022-04-07
+S01184,HCP,Germany,Ophthalmology,Low,2021-04-19
+S01185,HCP,United Kingdom,Hematology,Medium,2021-06-25
+S01186,HCP,Brazil,Dermatology,High,2021-12-25
+S01187,HCP,United Kingdom,Ophthalmology,,2023-07-16
+S01188,HCP,Japan,Endocrinology,Low,2022-07-30
+S01189,HCO,Italy,Organization,Medium,2023-11-23
+S01190,HCP,Brazil,Gastroenterology,Low,2021-05-22
+S01191,HCP,India,Cardiology,Medium,2021-04-23
+S01192,HCP,Canada,Nephrology,Low,2021-05-02
+S01193,HCP,Japan,Primary Care,High,2023-11-25
+S01194,HCP,France,Infectious Disease,High,2023-02-08
+S01195,HCP,United States,Infectious Disease,Low,2021-07-02
+S01196,HCP,Brazil,Cardiology,Medium,2022-10-05
+S01197,HCO,United Kingdom,Organization,Low,2023-11-26
+S01198,HCO,Japan,Organization,High,2021-05-04
+S01199,HCO,United States,Organization,Low,2021-10-28
+S01200,HCP,United Kingdom,Pulmonology,Medium,2021-05-04
+S01201,HCP,Brazil,Primary Care,Low,2022-05-19
+S01202,HCP,India,Pediatrics,High,2021-02-02
+S01203,HCP,Germany,Rheumatology,,2023-05-23
+S01204,HCP,Italy,Neurology,Medium,2023-02-18
+S01205,HCP,Mexico,Infectious Disease,High,2023-01-18
+S01206,HCP,United States,Endocrinology,Low,2023-09-09
+S01207,HCP,Italy,Pediatrics,Low,2022-02-03
+S01208,HCP,France,Neurology,Medium,2021-02-02
+S01209,HCP,Germany,Rheumatology,Medium,2023-11-23
+S01210,HCP,Germany,Infectious Disease,Low,2023-05-31
+S01211,HCP,Canada,Hematology,Low,2023-01-31
+S01212,HCP,Italy,Primary Care,Medium,2023-10-02
+S01213,HCP,France,Cardiology,High,2023-01-14
+S01214,HCP,France,Pulmonology,High,2022-06-10
+S01215,HCO,United Kingdom,Organization,Medium,2021-10-08
+S01216,HCP,Canada,Ophthalmology,Medium,2021-11-12
+S01217,HCO,Brazil,Organization,Low,2023-01-04
+S01218,HCO,Canada,Organization,High,2022-06-24
+S01219,HCP,France,Rheumatology,Medium,2023-01-11
+S01220,HCP,Canada,Endocrinology,Medium,2023-06-25
+S01221,HCP,United Kingdom,Psychiatry,Medium,2022-11-06
+S01222,HCP,Japan,Oncology,Low,2022-02-01
+S01223,HCP,India,Cardiology,Low,2023-12-26
+S01224,HCP,United Kingdom,Hematology,Low,2023-08-22
+S01225,HCP,Germany,Ophthalmology,Medium,2022-06-24
+S01226,HCO,United States,Organization,Low,2021-09-28
+S01227,HCP,Germany,Pediatrics,Low,2021-12-02
+S01228,HCP,Canada,Cardiology,High,2021-02-11
+S01229,HCP,India,Neurology,High,2022-07-16
+S01230,HCP,United Kingdom,Nephrology,Low,2022-11-02
+S01231,HCP,India,Nephrology,Medium,2022-03-01
+S01232,HCP,Canada,Endocrinology,Low,2023-01-04
+S01233,HCO,Italy,Organization,Low,2023-10-12
+S01234,HCO,Canada,Organization,Low,2023-01-11
+S01235,HCP,Italy,Psychiatry,Medium,2022-05-23
+S01236,HCP,Canada,Gastroenterology,Low,2023-03-13
+S01237,HCP,Italy,Neurology,Low,2021-01-27
+S01238,HCP,Germany,Pediatrics,Medium,2023-12-16
+S01239,HCO,Brazil,Organization,Low,2023-01-07
+S01240,HCP,Mexico,Pediatrics,Low,2021-08-19
+S01241,HCP,Italy,Nephrology,Medium,2022-02-01
+S01242,HCP,France,Gastroenterology,Low,2022-10-11
+S01243,HCP,Brazil,Nephrology,Medium,2021-08-29
+S01244,HCO,France,Organization,Medium,2023-01-02
+S01245,HCP,Italy,Psychiatry,High,2022-02-26
+S01246,HCP,Germany,Rheumatology,Medium,2021-03-30
+S01247,HCP,United Kingdom,Pediatrics,Medium,2022-09-22
+S01248,HCP,France,Pediatrics,Low,2022-11-14
+S01249,HCP,Germany,Infectious Disease,High,2022-05-26
+S01250,HCP,India,Pulmonology,Low,2021-04-13
+S01251,HCP,Germany,Psychiatry,Low,2022-06-09
+S01252,HCP,India,Gastroenterology,Low,2023-02-01
+S01253,HCP,Canada,Nephrology,Medium,2023-11-26
+S01254,HCP,Japan,Dermatology,High,2021-04-18
+S01255,HCP,United Kingdom,Cardiology,Medium,2023-03-30
+S01256,HCP,United Kingdom,Dermatology,Medium,2021-06-30
+S01257,HCP,United States,Pediatrics,Low,2022-09-05
+S01258,HCP,France,Pulmonology,Medium,2022-01-01
+S01259,HCP,Mexico,Rheumatology,Medium,2023-06-24
+S01260,HCP,United Kingdom,Psychiatry,Low,2021-02-25
+S01261,HCP,Germany,Psychiatry,Medium,2022-07-27
+S01262,HCP,Canada,Hematology,Low,2021-06-28
+S01263,HCO,Canada,Organization,Low,2022-11-27
+S01264,HCP,India,Pulmonology,Low,2021-07-30
+S01265,HCP,United Kingdom,Oncology,Low,2022-01-27
+S01266,HCO,Mexico,Organization,Medium,2023-12-11
+S01267,HCO,Brazil,Organization,Medium,2022-09-15
+S01268,HCP,Canada,Infectious Disease,,2023-06-06
+S01269,HCP,Canada,Dermatology,Medium,2023-03-02
+S01270,HCP,Japan,Ophthalmology,Medium,2022-01-28
+S01271,HCP,United States,Pulmonology,Low,2022-02-14
+S01272,HCP,Italy,Dermatology,Medium,2023-03-23
+S01273,HCO,India,Organization,Low,2022-01-16
+S01274,HCP,Brazil,Pulmonology,Low,2021-11-30
+S01275,HCP,Germany,Psychiatry,Medium,2021-05-29
+S01276,HCP,Germany,Endocrinology,Low,2022-12-17
+S01277,HCP,Mexico,Primary Care,Low,2022-09-29
+S01278,HCP,Italy,Dermatology,Low,2021-03-07
+S01279,HCO,Italy,Organization,Low,2023-12-04
+S01280,HCP,Italy,Hematology,Medium,2021-07-09
+S01281,HCP,France,Oncology,High,2021-02-09
+S01282,HCP,Germany,Nephrology,High,2021-08-06
+S01283,HCP,United States,Neurology,Medium,2023-10-15
+S01284,HCO,Japan,Organization,High,2021-05-30
+S01285,HCO,Canada,Organization,Low,2022-09-30
+S01286,HCP,United Kingdom,Dermatology,Medium,2022-06-11
+S01287,HCP,France,Nephrology,Low,2021-12-25
+S01288,HCP,Canada,Neurology,Low,2022-08-04
+S01289,HCP,France,Oncology,Medium,2022-12-01
+S01290,HCP,Japan,Cardiology,Low,2023-11-24
+S01291,HCP,Italy,Oncology,Low,2021-07-29
+S01292,HCO,Canada,Organization,Low,2021-10-27
+S01293,HCP,Brazil,Infectious Disease,,2023-07-29
+S01294,HCP,Mexico,Infectious Disease,Low,2021-08-01
+S01295,HCP,India,Neurology,Low,2021-05-03
+S01296,HCP,India,Endocrinology,Medium,2021-02-20
+S01297,HCP,Canada,Hematology,Low,2021-09-05
+S01298,HCP,Brazil,Gastroenterology,Low,2021-12-15
+S01299,HCP,India,Nephrology,,2021-04-18
+S01300,HCP,France,Cardiology,Low,2023-12-12
+S01301,HCP,Japan,Ophthalmology,Medium,2023-03-05
+S01302,HCP,United Kingdom,Neurology,Medium,2021-08-16
+S01303,HCP,Brazil,Hematology,Medium,2023-10-10
+S01304,HCP,India,Endocrinology,Low,2022-06-11
+S01305,HCP,Brazil,Pediatrics,Low,2021-06-12
+S01306,HCP,Mexico,Neurology,Medium,2021-03-29
+S01307,HCP,Brazil,Rheumatology,Low,2021-10-31
+S01308,HCP,Canada,Primary Care,Medium,2021-11-01
+S01309,HCP,United Kingdom,Nephrology,Low,2022-08-28
+S01310,HCP,Mexico,Infectious Disease,Medium,2023-06-08
+S01311,HCO,Japan,Organization,Low,2021-01-13
+S01312,HCP,Brazil,Endocrinology,High,2022-10-29
+S01313,HCP,Mexico,Primary Care,Medium,2021-04-22
+S01314,HCP,Germany,Neurology,Low,2022-07-31
+S01315,HCP,Mexico,Psychiatry,Low,2022-05-21
+S01316,HCP,India,Infectious Disease,Medium,2021-02-15
+S01317,HCP,Mexico,Gastroenterology,,2023-06-17
+S01318,HCP,India,Hematology,Low,2022-12-11
+S01319,HCP,Italy,Psychiatry,Medium,2023-01-18
+S01320,HCP,Germany,Rheumatology,Low,2021-05-17
+S01321,HCO,Germany,Organization,Low,2022-02-08
+S01322,HCP,United States,Rheumatology,Low,2022-12-20
+S01323,HCP,Germany,Primary Care,Low,2021-07-17
+S01324,HCP,India,Dermatology,Medium,2021-06-30
+S01325,HCP,Japan,Endocrinology,Low,2022-07-24
+S01326,HCP,France,Pediatrics,Low,2021-12-29
+S01327,HCO,Mexico,Organization,Low,2023-06-10
+S01328,HCO,United Kingdom,Organization,Low,2022-10-04
+S01329,HCO,Mexico,Organization,Medium,2022-07-30
+S01330,HCP,France,Infectious Disease,Medium,2021-03-21
+S01331,HCP,Canada,Pediatrics,Medium,2021-05-21
+S01332,HCO,Brazil,Organization,Low,2022-01-06
+S01333,HCP,Italy,Infectious Disease,Low,2021-03-24
+S01334,HCP,India,Pulmonology,Low,2022-08-19
+S01335,HCP,United Kingdom,Hematology,Low,2023-09-07
+S01336,HCP,Brazil,Cardiology,Medium,2022-12-12
+S01337,HCO,Japan,Organization,Low,2022-05-28
+S01338,HCP,United States,Nephrology,Low,2022-12-03
+S01339,HCP,Italy,Gastroenterology,Low,2021-01-09
+S01340,HCO,India,Organization,Low,2022-01-11
+S01341,HCP,Italy,Psychiatry,Medium,2023-10-22
+S01342,HCP,India,Oncology,Low,2023-04-03
+S01343,HCP,Italy,Nephrology,High,2023-01-29
+S01344,HCP,Brazil,Psychiatry,Low,2022-05-05
+S01345,HCP,Brazil,Hematology,Low,2023-07-20
+S01346,HCP,France,Pediatrics,Low,2023-12-22
+S01347,HCP,Japan,Primary Care,Low,2022-01-03
+S01348,HCP,Mexico,Cardiology,,2021-10-23
+S01349,HCP,United States,Oncology,Low,2023-09-22
+S01350,HCP,France,Psychiatry,Low,2021-11-14
+S01351,HCP,Germany,Infectious Disease,Low,2023-06-02
+S01352,HCP,India,Nephrology,Low,2022-11-27
+S01353,HCP,Mexico,Nephrology,Low,2022-05-24
+S01354,HCP,Germany,Endocrinology,Low,2021-07-27
+S01355,HCP,India,Infectious Disease,Low,2021-01-27
+S01356,HCP,Brazil,Hematology,Low,2022-05-20
+S01357,HCP,Italy,Infectious Disease,Low,2023-10-02
+S01358,HCP,United States,Psychiatry,Medium,2022-02-28
+S01359,HCP,United Kingdom,Dermatology,Low,2022-01-18
+S01360,HCO,Brazil,Organization,Low,2021-06-10
+S01361,HCP,United States,Gastroenterology,Low,2023-05-05
+S01362,HCP,Brazil,Pulmonology,Low,2023-12-31
+S01363,HCO,United States,Organization,Low,2023-05-22
+S01364,HCP,Germany,Rheumatology,Low,2021-10-23
+S01365,HCP,Germany,Primary Care,Low,2022-05-23
+S01366,HCP,Italy,Cardiology,Medium,2023-09-08
+S01367,HCP,Japan,Endocrinology,Low,2021-06-28
+S01368,HCP,Germany,Infectious Disease,Low,2023-06-22
+S01369,HCP,Canada,Nephrology,Medium,2021-08-14
+S01370,HCP,United States,Endocrinology,Medium,2023-10-04
+S01371,HCP,Germany,Dermatology,Low,2023-09-02
+S01372,HCP,United Kingdom,Nephrology,Low,2023-08-12
+S01373,HCP,Japan,Cardiology,Medium,2021-04-13
+S01374,HCP,Germany,Pulmonology,High,2023-09-18
+S01375,HCP,Brazil,Gastroenterology,Low,2021-07-29
+S01376,HCP,Japan,Endocrinology,Low,2022-10-31
+S01377,HCP,Mexico,Pulmonology,High,2023-02-19
+S01378,HCO,Canada,Organization,Medium,2022-04-07
+S01379,HCP,Germany,Infectious Disease,Low,2023-12-24
+S01380,HCP,Brazil,Infectious Disease,Low,2021-11-19
+S01381,HCP,United Kingdom,Endocrinology,High,2023-05-24
+S01382,HCO,Canada,Organization,Medium,2022-06-28
+S01383,HCP,Italy,Oncology,Medium,2022-01-16
+S01384,HCP,United Kingdom,Dermatology,Low,2023-09-13
+S01385,HCP,Japan,Endocrinology,Medium,2023-04-26
+S01386,HCP,Mexico,Neurology,Low,2022-12-15
+S01387,HCP,United Kingdom,Cardiology,Medium,2023-12-26
+S01388,HCP,France,Cardiology,Low,2022-09-30
+S01389,HCP,Japan,Cardiology,Medium,2023-06-08
+S01390,HCP,India,Gastroenterology,Medium,2021-07-16
+S01391,HCP,Canada,Neurology,Low,2023-12-11
+S01392,HCP,Germany,Ophthalmology,Low,2022-11-18
+S01393,HCO,Japan,Organization,Medium,2021-07-21
+S01394,HCP,Japan,Cardiology,Low,2022-08-05
+S01395,HCP,India,Nephrology,Medium,2021-10-15
+S01396,HCP,Canada,Cardiology,Medium,2021-08-11
+S01397,HCP,Brazil,Dermatology,,2023-12-19
+S01398,HCP,Germany,Dermatology,Low,2021-05-06
+S01399,HCP,Italy,Pediatrics,Low,2021-04-29
+S01400,HCP,France,Gastroenterology,Low,2021-03-24
+S01401,HCP,Germany,Primary Care,Low,2021-03-02
+S01402,HCP,Japan,Rheumatology,High,2023-10-07
+S01403,HCP,France,Gastroenterology,Low,2021-07-07
+S01404,HCP,Mexico,Gastroenterology,,2023-09-02
+S01405,HCO,Japan,Organization,High,2021-12-13
+S01406,HCO,United Kingdom,Organization,Low,2022-02-16
+S01407,HCP,Mexico,Pediatrics,Low,2023-02-27
+S01408,HCP,France,Primary Care,Low,2022-02-06
+S01409,HCP,India,Ophthalmology,Medium,2023-03-20
+S01410,HCO,Canada,Organization,Low,2023-03-01
+S01411,HCP,India,Cardiology,,2021-07-02
+S01412,HCP,Canada,Endocrinology,,2022-03-11
+S01413,HCP,Brazil,Dermatology,Low,2022-07-02
+S01414,HCP,Mexico,Hematology,High,2023-02-24
+S01415,HCO,Mexico,Organization,Low,2021-08-12
+S01416,HCO,Canada,Organization,Low,2021-01-14
+S01417,HCP,United States,Endocrinology,Low,2021-06-22
+S01418,HCO,Mexico,Organization,Low,2021-12-08
+S01419,HCP,Brazil,Oncology,Medium,2023-11-28
+S01420,HCO,Canada,Organization,Medium,2022-10-14
+S01421,HCP,Mexico,Endocrinology,Low,2023-10-01
+S01422,HCP,Japan,Oncology,Medium,2023-01-14
+S01423,HCP,Brazil,Nephrology,Medium,2021-07-13
+S01424,HCP,Germany,Ophthalmology,Medium,2021-08-23
+S01425,HCO,Mexico,Organization,Low,2023-07-27
+S01426,HCO,Germany,Organization,Low,2021-05-20
+S01427,HCO,Canada,Organization,Medium,2023-12-09
+S01428,HCP,India,Gastroenterology,Low,2022-11-24
+S01429,HCP,United Kingdom,Neurology,Low,2021-10-19
+S01430,HCP,Italy,Pediatrics,Medium,2022-08-04
+S01431,HCO,India,Organization,Medium,2021-12-31
+S01432,HCP,Canada,Dermatology,Low,2022-07-19
+S01433,HCP,India,Neurology,Low,2021-05-21
+S01434,HCP,Canada,Gastroenterology,Low,2023-08-03
+S01435,HCP,Germany,Rheumatology,Medium,2021-05-30
+S01436,HCP,France,Infectious Disease,Medium,2022-05-04
+S01437,HCP,Japan,Primary Care,Low,2022-11-08
+S01438,HCO,Canada,Organization,Low,2021-08-19
+S01439,HCP,Italy,Nephrology,Low,2022-06-03
+S01440,HCP,Canada,Pediatrics,Low,2023-02-01
+S01441,HCP,Mexico,Neurology,Low,2021-06-14
+S01442,HCP,United States,Endocrinology,,2023-03-13
+S01443,HCP,Canada,Nephrology,Low,2021-12-08
+S01444,HCP,France,Ophthalmology,Medium,2023-06-30
+S01445,HCP,Italy,Endocrinology,Medium,2022-04-05
+S01446,HCP,Germany,Cardiology,Low,2022-07-21
+S01447,HCO,Canada,Organization,High,2023-12-12
+S01448,HCP,Brazil,Psychiatry,Medium,2021-07-05
+S01449,HCP,Brazil,Cardiology,Low,2021-08-18
+S01450,HCP,United Kingdom,Gastroenterology,Low,2021-10-30
+S01451,HCP,Brazil,Primary Care,Medium,2023-09-24
+S01452,HCP,France,Pediatrics,Low,2021-12-11
+S01453,HCO,Canada,Organization,Low,2022-09-11
+S01454,HCP,Brazil,Pulmonology,Low,2021-06-06
+S01455,HCP,Canada,Infectious Disease,Medium,2022-07-25
+S01456,HCP,United States,Pediatrics,Low,2023-02-02
+S01457,HCO,Mexico,Organization,Low,2023-12-31
+S01458,HCP,India,Rheumatology,Low,2022-12-23
+S01459,HCO,Germany,Organization,Low,2023-03-15
+S01460,HCP,Canada,Endocrinology,Low,2021-09-17
+S01461,HCP,India,Psychiatry,Low,2021-04-02
+S01462,HCO,Italy,Organization,Low,2022-06-28
+S01463,HCP,Japan,Endocrinology,Low,2023-02-18
+S01464,HCP,Mexico,Pulmonology,Low,2022-12-17
+S01465,HCP,United Kingdom,Cardiology,Medium,2023-12-19
+S01466,HCO,India,Organization,Medium,2022-08-16
+S01467,HCO,United States,Organization,High,2023-05-16
+S01468,HCP,Italy,Ophthalmology,Low,2023-08-25
+S01469,HCP,France,Rheumatology,Low,2021-09-16
+S01470,HCO,Canada,Organization,Medium,2021-07-25
+S01471,HCP,India,Endocrinology,Low,2023-12-05
+S01472,HCO,Brazil,Organization,Low,2023-10-28
+S01473,HCP,United Kingdom,Pediatrics,Low,2023-04-16
+S01474,HCP,United Kingdom,Dermatology,High,2022-09-29
+S01475,HCP,Brazil,Ophthalmology,Low,2023-03-07
+S01476,HCP,France,Ophthalmology,,2021-06-27
+S01477,HCP,France,Primary Care,High,2023-03-21
+S01478,HCP,Mexico,Gastroenterology,High,2021-03-04
+S01479,HCP,Germany,Hematology,High,2022-04-12
+S01480,HCP,United States,Ophthalmology,,2023-04-07
+S01481,HCP,India,Psychiatry,High,2022-05-20
+S01482,HCP,Brazil,Dermatology,Low,2021-09-10
+S01483,HCP,France,Primary Care,Medium,2021-08-23
+S01484,HCP,Canada,Dermatology,Medium,2023-08-22
+S01485,HCP,Italy,Neurology,Low,2021-05-05
+S01486,HCP,Japan,Hematology,Medium,2022-08-07
+S01487,HCP,Mexico,Rheumatology,Low,2023-02-23
+S01488,HCP,Italy,Dermatology,Low,2022-06-05
+S01489,HCO,Japan,Organization,,2021-07-30
+S01490,HCP,Italy,Dermatology,Medium,2022-02-14
+S01491,HCP,Germany,Infectious Disease,High,2023-07-21
+S01492,HCP,Japan,Hematology,Low,2023-03-03
+S01493,HCP,France,Nephrology,Low,2023-07-30
+S01494,HCP,India,Rheumatology,Medium,2022-04-22
+S01495,HCP,Canada,Gastroenterology,Medium,2021-05-20
+S01496,HCP,United States,Infectious Disease,Low,2023-02-02
+S01497,HCO,United States,Organization,Low,2021-05-08
+S01498,HCP,United Kingdom,Psychiatry,Low,2022-08-09
+S01499,HCP,India,Pediatrics,,2021-02-22
+S01500,HCP,Italy,Rheumatology,High,2023-03-26
+S01501,HCP,Brazil,Rheumatology,Low,2021-10-27
+S01502,HCP,United States,Ophthalmology,Low,2021-03-13
+S01503,HCP,Japan,Gastroenterology,Low,2023-09-05
+S01504,HCO,Canada,Organization,Medium,2021-02-07
+S01505,HCP,France,Neurology,Low,2023-06-18
+S01506,HCP,France,Ophthalmology,Medium,2022-09-04
+S01507,HCO,Italy,Organization,Low,2021-01-14
+S01508,HCP,Mexico,Ophthalmology,Medium,2021-09-17
+S01509,HCP,France,Oncology,Low,2021-03-29
+S01510,HCP,Canada,Oncology,Low,2022-02-10
+S01511,HCP,India,Gastroenterology,Medium,2021-03-02
+S01512,HCP,France,Rheumatology,Low,2022-08-30
+S01513,HCO,France,Organization,Medium,2023-04-01
+S01514,HCP,France,Endocrinology,Low,2022-02-08
+S01515,HCP,United States,Pulmonology,Medium,2023-05-05
+S01516,HCP,Japan,Endocrinology,Low,2023-08-29
+S01517,HCO,France,Organization,Low,2023-05-30
+S01518,HCP,Germany,Infectious Disease,High,2021-02-03
+S01519,HCP,United Kingdom,Primary Care,High,2022-08-25
+S01520,HCP,Italy,Pediatrics,Low,2022-11-01
+S01521,HCP,India,Primary Care,Medium,2021-06-27
+S01522,HCO,Italy,Organization,Low,2023-08-04
+S01523,HCP,United Kingdom,Dermatology,Low,2022-12-14
+S01524,HCP,France,Neurology,Low,2023-02-28
+S01525,HCP,United States,Hematology,Medium,2021-12-17
+S01526,HCO,Mexico,Organization,Low,2021-07-24
+S01527,HCO,India,Organization,Low,2022-12-23
+S01528,HCP,Brazil,Psychiatry,Medium,2021-03-06
+S01529,HCP,Canada,Endocrinology,,2023-08-26
+S01530,HCP,Canada,Cardiology,Low,2021-03-23
+S01531,HCP,Brazil,Ophthalmology,Low,2022-03-04
+S01532,HCP,Germany,Hematology,Medium,2022-08-03
+S01533,HCP,Brazil,Oncology,Medium,2023-10-08
+S01534,HCP,Brazil,Rheumatology,Low,2023-02-25
+S01535,HCP,Italy,Oncology,Medium,2022-11-01
+S01536,HCO,United Kingdom,Organization,Low,2023-09-10
+S01537,HCO,Canada,Organization,,2023-03-05
+S01538,HCP,Brazil,Hematology,Low,2021-12-19
+S01539,HCP,United Kingdom,Primary Care,Low,2022-05-24
+S01540,HCP,France,Infectious Disease,Low,2021-04-20
+S01541,HCP,Japan,Endocrinology,High,2023-01-22
+S01542,HCP,Italy,Dermatology,Low,2021-10-10
+S01543,HCP,United States,Nephrology,Low,2021-10-23
+S01544,HCP,Italy,Rheumatology,Low,2021-03-13
+S01545,HCP,Mexico,Nephrology,Medium,2021-01-20
+S01546,HCP,United States,Psychiatry,Low,2021-01-04
+S01547,HCP,Germany,Gastroenterology,Low,2023-01-06
+S01548,HCP,United States,Neurology,Low,2021-03-28
+S01549,HCP,Canada,Cardiology,Medium,2022-01-28
+S01550,HCP,Italy,Neurology,High,2022-06-06
+S01551,HCO,Japan,Organization,Medium,2022-02-13
+S01552,HCP,France,Pediatrics,Low,2021-11-12
+S01553,HCO,United Kingdom,Organization,Low,2022-05-27
+S01554,HCO,India,Organization,Low,2022-05-23
+S01555,HCP,United Kingdom,Psychiatry,Medium,2022-08-31
+S01556,HCP,United Kingdom,Dermatology,Medium,2021-05-06
+S01557,HCP,Mexico,Ophthalmology,Medium,2022-08-26
+S01558,HCO,Germany,Organization,Low,2023-12-14
+S01559,HCP,United States,Rheumatology,Medium,2022-12-01
+S01560,HCP,France,Rheumatology,Low,2021-04-06
+S01561,HCO,Germany,Organization,Medium,2021-09-03
+S01562,HCP,Mexico,Pulmonology,Low,2021-10-02
+S01563,HCO,France,Organization,Low,2022-10-04
+S01564,HCP,Brazil,Pulmonology,Low,2022-01-07
+S01565,HCP,Mexico,Nephrology,Low,2021-01-08
+S01566,HCP,Germany,Cardiology,Medium,2022-01-21
+S01567,HCP,United Kingdom,Neurology,High,2023-08-12
+S01568,HCP,United Kingdom,Neurology,Low,2021-06-29
+S01569,HCP,Germany,Gastroenterology,Medium,2021-09-26
+S01570,HCP,France,Cardiology,Low,2022-05-07
+S01571,HCP,United Kingdom,Pulmonology,High,2023-03-03
+S01572,HCO,Canada,Organization,Low,2021-12-27
+S01573,HCP,United States,Nephrology,Medium,2023-03-17
+S01574,HCP,Brazil,Nephrology,Low,2023-09-22
+S01575,HCP,Italy,Dermatology,Low,2021-08-18
+S01576,HCP,United Kingdom,Infectious Disease,Medium,2021-05-09
+S01577,HCP,Brazil,Pulmonology,Low,2021-05-03
+S01578,HCP,Canada,Oncology,Low,2021-09-12
+S01579,HCP,Mexico,Pulmonology,Low,2021-05-15
+S01580,HCP,Brazil,Endocrinology,Low,2021-06-04
+S01581,HCO,Canada,Organization,Low,2021-03-11
+S01582,HCP,India,Infectious Disease,High,2023-10-09
+S01583,HCP,United States,Cardiology,Low,2023-02-08
+S01584,HCP,Canada,Primary Care,High,2021-10-08
+S01585,HCP,Japan,Pulmonology,Low,2022-10-05
+S01586,HCP,Italy,Pediatrics,Medium,2022-04-13
+S01587,HCO,Germany,Organization,Medium,2022-03-08
+S01588,HCP,Japan,Oncology,Medium,2023-12-21
+S01589,HCP,Japan,Pulmonology,Medium,2023-03-04
+S01590,HCP,Japan,Dermatology,Low,2021-05-02
+S01591,HCP,Canada,Neurology,Low,2021-11-10
+S01592,HCP,Mexico,Ophthalmology,Low,2023-11-20
+S01593,HCP,Japan,Infectious Disease,Low,2021-06-02
+S01594,HCP,Japan,Endocrinology,Low,2023-01-24
+S01595,HCP,Mexico,Endocrinology,Low,2022-08-22
+S01596,HCP,India,Nephrology,Low,2023-01-03
+S01597,HCP,United Kingdom,Nephrology,Low,2021-07-25
+S01598,HCP,Japan,Rheumatology,Low,2022-11-01
+S01599,HCP,Italy,Infectious Disease,Low,2021-04-02
+S01600,HCP,Mexico,Psychiatry,Medium,2023-12-12
+S01601,HCP,India,Neurology,Low,2022-11-21
+S01602,HCP,Italy,Pediatrics,Low,2022-04-23
+S01603,HCP,Canada,Oncology,Medium,2021-03-23
+S01604,HCP,Japan,Oncology,Medium,2023-01-31
+S01605,HCP,France,Rheumatology,Low,2022-11-29
+S01606,HCP,Germany,Primary Care,Medium,2021-10-31
+S01607,HCP,India,Pediatrics,Medium,2022-01-17
+S01608,HCP,Germany,Endocrinology,High,2023-11-12
+S01609,HCP,United States,Pediatrics,Low,2023-02-12
+S01610,HCP,United Kingdom,Primary Care,Medium,2021-11-04
+S01611,HCP,Italy,Ophthalmology,Low,2023-08-14
+S01612,HCP,Canada,Pediatrics,Low,2022-09-19
+S01613,HCP,India,Ophthalmology,Low,2021-11-06
+S01614,HCP,Germany,Primary Care,,2021-05-13
+S01615,HCP,India,Hematology,Low,2021-03-30
+S01616,HCO,Mexico,Organization,,2022-12-25
+S01617,HCP,Canada,Hematology,,2022-08-26
+S01618,HCO,Germany,Organization,High,2021-12-12
+S01619,HCP,Italy,Primary Care,Low,2023-03-17
+S01620,HCP,Mexico,Rheumatology,Low,2023-09-18
+S01621,HCP,United Kingdom,Endocrinology,Low,2022-03-03
+S01622,HCP,Italy,Hematology,High,2023-12-31
+S01623,HCP,India,Hematology,Medium,2022-05-23
+S01624,HCP,France,Pediatrics,Low,2022-03-29
+S01625,HCP,Japan,Endocrinology,Low,2023-10-04
+S01626,HCO,India,Organization,High,2023-01-17
+S01627,HCO,Canada,Organization,Medium,2021-02-03
+S01628,HCP,Japan,Gastroenterology,Medium,2021-07-07
+S01629,HCP,India,Endocrinology,Low,2023-07-27
+S01630,HCP,United States,Hematology,Medium,2021-05-18
+S01631,HCP,United Kingdom,Ophthalmology,Low,2023-02-24
+S01632,HCP,Mexico,Cardiology,Medium,2022-10-14
+S01633,HCP,Mexico,Infectious Disease,,2023-03-10
+S01634,HCP,Germany,Psychiatry,Low,2021-05-25
+S01635,HCP,Brazil,Oncology,Low,2023-11-27
+S01636,HCP,Canada,Infectious Disease,Medium,2022-06-22
+S01637,HCP,Germany,Gastroenterology,Medium,2021-07-25
+S01638,HCP,Brazil,Ophthalmology,Low,2023-08-14
+S01639,HCP,United States,Gastroenterology,High,2021-07-29
+S01640,HCP,Canada,Rheumatology,Low,2022-01-06
+S01641,HCP,Brazil,Cardiology,Medium,2021-02-16
+S01642,HCP,Canada,Psychiatry,Medium,2022-07-30
+S01643,HCP,Brazil,Infectious Disease,Medium,2023-12-23
+S01644,HCP,Canada,Pulmonology,Medium,2021-04-23
+S01645,HCP,Canada,Infectious Disease,Low,2022-12-20
+S01646,HCP,United Kingdom,Nephrology,Low,2022-02-19
+S01647,HCP,France,Pulmonology,High,2022-05-28
+S01648,HCP,United States,Primary Care,Low,2023-08-03
+S01649,HCP,Canada,Pediatrics,Low,2022-01-12
+S01650,HCP,France,Psychiatry,Low,2021-01-24
+S01651,HCP,France,Hematology,Low,2021-08-26
+S01652,HCO,Germany,Organization,Medium,2023-11-13
+S01653,HCP,France,Nephrology,,2022-03-09
+S01654,HCP,India,Infectious Disease,Medium,2022-07-20
+S01655,HCP,France,Psychiatry,Medium,2021-01-13
+S01656,HCP,United States,Nephrology,Medium,2021-08-28
+S01657,HCP,United States,Rheumatology,Low,2023-08-09
+S01658,HCP,Japan,Nephrology,High,2021-07-01
+S01659,HCP,Italy,Psychiatry,Low,2021-04-14
+S01660,HCP,Brazil,Hematology,Low,2023-05-05
+S01661,HCO,Brazil,Organization,Low,2022-05-31
+S01662,HCO,Mexico,Organization,Medium,2022-02-14
+S01663,HCP,United States,Gastroenterology,Medium,2022-09-06
+S01664,HCP,India,Pediatrics,High,2022-02-28
+S01665,HCP,Mexico,Nephrology,Low,2022-04-11
+S01666,HCP,Canada,Nephrology,Medium,2022-03-12
+S01667,HCP,Italy,Primary Care,Medium,2022-03-11
+S01668,HCP,United Kingdom,Psychiatry,,2021-10-19
+S01669,HCP,Mexico,Pediatrics,Low,2022-11-09
+S01670,HCP,Germany,Oncology,Low,2021-04-19
+S01671,HCP,United States,Psychiatry,Low,2022-03-23
+S01672,HCP,Italy,Primary Care,Low,2021-05-08
+S01673,HCP,Canada,Hematology,Low,2022-05-22
+S01674,HCP,Canada,Psychiatry,,2022-08-11
+S01675,HCO,Germany,Organization,Low,2022-10-18
+S01676,HCP,Canada,Endocrinology,High,2021-06-25
+S01677,HCP,France,Infectious Disease,Medium,2021-11-23
+S01678,HCP,Germany,Ophthalmology,,2023-04-14
+S01679,HCP,India,Pediatrics,Medium,2022-04-05
+S01680,HCP,Mexico,Nephrology,Low,2022-09-30
+S01681,HCP,United States,Neurology,,2021-04-08
+S01682,HCO,Brazil,Organization,Low,2022-02-01
+S01683,HCP,Japan,Ophthalmology,Low,2023-03-06
+S01684,HCP,India,Infectious Disease,Low,2022-06-27
+S01685,HCP,United Kingdom,Dermatology,Medium,2023-03-20
+S01686,HCO,Germany,Organization,Medium,2022-04-21
+S01687,HCP,Germany,Oncology,Medium,2021-04-01
+S01688,HCP,Canada,Cardiology,High,2023-11-27
+S01689,HCP,France,Cardiology,High,2021-12-19
+S01690,HCP,India,Psychiatry,Low,2023-01-14
+S01691,HCP,India,Gastroenterology,Medium,2023-10-21
+S01692,HCP,Japan,Rheumatology,Medium,2022-03-25
+S01693,HCP,Germany,Cardiology,Low,2021-01-03
+S01694,HCP,Japan,Gastroenterology,High,2022-11-03
+S01695,HCP,Mexico,Pulmonology,Low,2021-04-08
+S01696,HCP,Germany,Hematology,,2022-01-24
+S01697,HCP,Germany,Nephrology,Medium,2022-06-20
+S01698,HCP,Italy,Cardiology,,2021-09-26
+S01699,HCP,Italy,Rheumatology,High,2021-05-21
+S01700,HCP,Mexico,Ophthalmology,Medium,2022-08-03
+S01701,HCP,Italy,Dermatology,Low,2022-10-31
+S01702,HCP,Canada,Rheumatology,Low,2023-07-26
+S01703,HCP,United Kingdom,Infectious Disease,Low,2023-08-06
+S01704,HCO,Japan,Organization,Low,2021-11-17
+S01705,HCP,Mexico,Nephrology,Medium,2023-10-27
+S01706,HCP,United Kingdom,Nephrology,Medium,2021-03-24
+S01707,HCP,United Kingdom,Pediatrics,High,2022-12-17
+S01708,HCP,United Kingdom,Primary Care,Low,2023-11-05
+S01709,HCP,Germany,Endocrinology,Low,2023-01-25
+S01710,HCP,United States,Ophthalmology,Medium,2022-01-05
+S01711,HCP,Italy,Endocrinology,Low,2021-11-23
+S01712,HCO,United States,Organization,Medium,2022-04-28
+S01713,HCP,Germany,Endocrinology,Medium,2023-01-13
+S01714,HCP,United Kingdom,Oncology,Low,2023-09-08
+S01715,HCP,Canada,Dermatology,Low,2022-03-11
+S01716,HCP,Italy,Nephrology,Medium,2022-10-06
+S01717,HCP,India,Pediatrics,Medium,2023-03-21
+S01718,HCP,France,Nephrology,Low,2021-03-21
+S01719,HCP,United States,Neurology,Low,2023-02-25
+S01720,HCP,Brazil,Rheumatology,Low,2023-06-08
+S01721,HCP,Mexico,Infectious Disease,Low,2022-04-24
+S01722,HCP,Canada,Oncology,Medium,2022-10-13
+S01723,HCP,Canada,Endocrinology,Low,2022-03-03
+S01724,HCP,Japan,Cardiology,Low,2022-04-09
+S01725,HCP,Canada,Primary Care,High,2023-11-08
+S01726,HCP,India,Nephrology,Medium,2021-07-04
+S01727,HCP,France,Pediatrics,Low,2021-03-02
+S01728,HCP,Japan,Endocrinology,Medium,2022-03-16
+S01729,HCP,United States,Psychiatry,Low,2021-04-27
+S01730,HCP,Germany,Nephrology,Low,2022-08-05
+S01731,HCP,India,Dermatology,Low,2023-05-10
+S01732,HCO,United Kingdom,Organization,Medium,2023-01-19
+S01733,HCP,United Kingdom,Infectious Disease,Medium,2022-04-15
+S01734,HCP,Italy,Dermatology,Low,2022-04-12
+S01735,HCP,France,Ophthalmology,Low,2023-01-03
+S01736,HCP,France,Ophthalmology,Low,2023-02-15
+S01737,HCP,Mexico,Rheumatology,Low,2023-03-22
+S01738,HCP,Canada,Nephrology,Low,2023-08-06
+S01739,HCP,Germany,Ophthalmology,Low,2022-11-22
+S01740,HCP,France,Infectious Disease,Low,2021-04-29
+S01741,HCO,Germany,Organization,Medium,2022-10-03
+S01742,HCP,Canada,Rheumatology,Low,2021-10-24
+S01743,HCP,Mexico,Oncology,Low,2021-03-25
+S01744,HCP,Germany,Rheumatology,High,2021-11-09
+S01745,HCO,India,Organization,Low,2022-09-29
+S01746,HCP,Canada,Ophthalmology,Low,2021-12-25
+S01747,HCO,Italy,Organization,Low,2022-08-11
+S01748,HCP,India,Infectious Disease,Medium,2022-09-08
+S01749,HCO,Mexico,Organization,Low,2023-09-10
+S01750,HCP,France,Primary Care,Low,2021-12-14
+S01751,HCP,France,Infectious Disease,Low,2023-01-06
+S01752,HCP,Mexico,Dermatology,High,2023-01-26
+S01753,HCP,Canada,Nephrology,Medium,2021-11-23
+S01754,HCO,Canada,Organization,Medium,2021-12-02
+S01755,HCO,United Kingdom,Organization,Low,2021-05-08
+S01756,HCP,United Kingdom,Dermatology,Medium,2022-10-10
+S01757,HCP,Japan,Psychiatry,Low,2021-09-19
+S01758,HCP,Italy,Rheumatology,Medium,2023-02-25
+S01759,HCO,Canada,Organization,High,2023-04-15
+S01760,HCP,United States,Cardiology,Low,2022-11-22
+S01761,HCP,Japan,Gastroenterology,Low,2023-08-12
+S01762,HCP,United Kingdom,Nephrology,Medium,2023-01-25
+S01763,HCP,Germany,Dermatology,Low,2023-05-03
+S01764,HCP,United States,Rheumatology,High,2022-08-30
+S01765,HCP,France,Dermatology,Medium,2023-12-21
+S01766,HCP,Germany,Pediatrics,Low,2022-06-20
+S01767,HCO,Japan,Organization,Medium,2023-11-21
+S01768,HCO,United States,Organization,Low,2022-02-23
+S01769,HCO,France,Organization,Low,2022-05-18
+S01770,HCP,Mexico,Psychiatry,Medium,2023-08-21
+S01771,HCP,Germany,Psychiatry,Low,2021-01-06
+S01772,HCP,United States,Nephrology,Low,2021-03-07
+S01773,HCP,Canada,Nephrology,Low,2021-05-29
+S01774,HCP,Germany,Neurology,Medium,2023-10-21
+S01775,HCP,United States,Ophthalmology,Medium,2022-11-29
+S01776,HCP,United States,Neurology,Low,2022-06-03
+S01777,HCP,United States,Endocrinology,Medium,2021-08-26
+S01778,HCP,Germany,Nephrology,Low,2023-08-25
+S01779,HCP,Mexico,Oncology,Medium,2021-06-15
+S01780,HCO,Canada,Organization,Medium,2023-04-11
+S01781,HCP,Italy,Ophthalmology,Low,2021-10-31
+S01782,HCP,India,Oncology,Low,2023-04-24
+S01783,HCP,Japan,Gastroenterology,Medium,2021-10-02
+S01784,HCP,Japan,Pediatrics,Medium,2023-07-22
+S01785,HCP,Brazil,Neurology,Medium,2023-09-29
+S01786,HCP,Germany,Ophthalmology,Low,2021-09-21
+S01787,HCP,Germany,Endocrinology,Low,2023-01-31
+S01788,HCP,Germany,Pulmonology,Low,2021-10-02
+S01789,HCP,France,Hematology,Low,2023-05-09
+S01790,HCP,United States,Pediatrics,Low,2022-12-17
+S01791,HCP,France,Rheumatology,Low,2021-07-17
+S01792,HCP,Canada,Oncology,Low,2022-09-06
+S01793,HCP,Italy,Gastroenterology,Medium,2021-07-14
+S01794,HCP,India,Pediatrics,Medium,2021-02-17
+S01795,HCP,Mexico,Pediatrics,Medium,2022-09-07
+S01796,HCP,United Kingdom,Pulmonology,Medium,2021-06-29
+S01797,HCP,Brazil,Pulmonology,Low,2021-04-13
+S01798,HCO,Mexico,Organization,Medium,2021-05-13
+S01799,HCP,United States,Pulmonology,Low,2022-07-14
+S01800,HCP,France,Endocrinology,Medium,2021-03-02
