@@ -361,10 +361,14 @@ def page_assisted_review():
 
     # Import lazily so the page renders even if langgraph isn't installed
     try:
-        from langgraph_assisted_review import review
+        from langgraph_assisted_review import review as _review_uncached
     except Exception as e:
         st.error(f"Could not import the workflow: {e}")
         return
+
+    @st.cache_data(show_spinner=False)
+    def review(iid: str):
+        return _review_uncached(iid)
 
     with st.spinner(f"Processing {iid} through the LangGraph workflow..."):
         t0 = time.time()

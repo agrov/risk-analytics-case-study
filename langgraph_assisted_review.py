@@ -33,7 +33,7 @@ from sklearn.ensemble import IsolationForest
 from sklearn.preprocessing import StandardScaler
 
 from langgraph.graph import StateGraph, END
-from langgraph_assisted_review import review as _review_uncached
+
 BASE = Path(__file__).parent
 
 # ============================================================
@@ -470,9 +470,7 @@ def review(interaction_id: str) -> dict:
     initial: CaseState = {"interaction_id": interaction_id, "audit_log": []}
     return _GRAPH.invoke(initial)
 
-@st.cache_data(show_spinner=False)
-def review(iid: str):
-    return _review_uncached(iid)
+
 # ============================================================
 # CLI runner
 # ============================================================
@@ -481,7 +479,7 @@ if __name__ == "__main__":
     test_ids = sys.argv[1:] or ["I002316", "I005587"]
     for iid in test_ids:
         print(f"\n{'#'*78}\n# CASE: {iid}\n{'#'*78}")
-        out = review(iid)        
+        out = review(iid)
         print(json.dumps({
             "disposition":   out.get("disposition"),
             "severity":      out.get("severity"),
