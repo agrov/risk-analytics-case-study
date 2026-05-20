@@ -103,7 +103,7 @@ def review(iid: str):
 # ============================================================
 st.markdown(f"<p style='color:{AMBER};font-weight:bold;letter-spacing:3px;margin-bottom:0;'>RISK ANALYTICS · PHASE 3 PROTOTYPE</p>", unsafe_allow_html=True)
 st.markdown("# Assisted review — live workflow demo")
-st.markdown(f"<p style='color:{SLATE};font-style:italic;font-size:15px;'>Built on LangGraph. Six deterministic checks Compliance signs off on, plus Gemini for text-based document review. The model never decides disposition — it reads documents, surfaces inconsistencies, and writes the reviewer brief. Disposition is bounded by the deterministic rules.</p>", unsafe_allow_html=True)
+st.markdown("")
 
 # Intro box explaining what this is
 st.markdown(f"""
